@@ -14,27 +14,27 @@ Decisions from data; experimental & study design; GenAI (e.g., dual-prompting, m
 
 ## Education
 
-+:----------+:---------------------------------------------------------------------------+-----:+
-| **Ph.D.** | **Stanford University\                                                     | 2013 |
-|           | **Department of Biological Sciences, Palo Alto, CA                         |      |
-+-----------+----------------------------------------------------------------------------+------+
-| **M.S.**  | **Stanford University**\                                                   | 2008 |
-|           | Department of Biological Sciences, Palo Alto, CA\                          |      |
-|           | GPA: 4.0/4.0                                                               |      |
-+-----------+----------------------------------------------------------------------------+------+
-| **B.S.**  | **University of California, Berkeley\                                      | 2005 |
-|           | **Department of Environmental Science Policy and Management, Berkeley, CA\ |      |
-|           | Minor in Forestry and Natural Resources\                                   |      |
-|           | GPA: 3.9/4.0                                                               |      |
-+-----------+----------------------------------------------------------------------------+------+
-| **A.S.**  | **Cabrillo College**, Santa Cruz\                                          | 2003 |
-|           | Associate in Science with Honors\                                          |      |
-|           | GPA:4.0/4.0                                                                |      |
-+-----------+----------------------------------------------------------------------------+------+
-| **A.A.**  | **Cabrillo College**, Santa Cruz\                                          | 2003 |
-|           | Associate in Arts with Honors\                                             |      |
-|           | GPA: 4.0/4.0                                                               |      |
-+-----------+----------------------------------------------------------------------------+------+
++:----------+:---------------------------------------------------------------------------+--------:+
+| **Ph.D.** | **Stanford University\                                                     | 2013    |
+|           | **Department of Biological Sciences, Palo Alto, CA                         |         |
++-----------+----------------------------------------------------------------------------+---------+
+| **M.S.**  | **Stanford University**\                                                   | 2008    |
+|           | Department of Biological Sciences, Palo Alto, CA\                          |         |
+|           | GPA: 4.0/4.0                                                               |         |
++-----------+----------------------------------------------------------------------------+---------+
+| **B.S.**  | **University of California, Berkeley\                                      | 2005    |
+|           | **Department of Environmental Science Policy and Management, Berkeley, CA\ |         |
+|           | Minor in Forestry and Natural Resources\                                   |         |
+|           | GPA: 3.9/4.0                                                               |         |
++-----------+----------------------------------------------------------------------------+---------+
+| **A.S.**  | **Cabrillo College**, Santa Cruz\                                          | 2003    |
+|           | Associate in Science with Honors\                                          |         |
+|           | GPA:4.0/4.0                                                                |         |
++-----------+----------------------------------------------------------------------------+---------+
+| **A.A.**  | **Cabrillo College**, Santa Cruz\                                          | 2003    |
+|           | Associate in Arts with Honors\                                             |         |
+|           | GPA: 4.0/4.0                                                               |         |
++-----------+----------------------------------------------------------------------------+---------+
 
 ## Experience Highlights
 
@@ -56,7 +56,7 @@ Decisions from data; experimental & study design; GenAI (e.g., dual-prompting, m
 +:---------------------------------------------------------------+:------------------------------------+-------------:+
 | **Method Qualitative**                                         | Chief Science Officer               | 2023-Present |
 +----------------------------------------------------------------+-------------------------------------+--------------+
-| **University of Texas, Austin**                                | Research Scientist                  | 2020-2025    |
+| **University of Texas, Austin**                                | Research Scientist/Fellow           | 2020-Present |
 +----------------------------------------------------------------+-------------------------------------+--------------+
 | **USDA Pacific Southwest Research Station**                    | Postdoctoral Scholar                | 2015-2020    |
 +----------------------------------------------------------------+-------------------------------------+--------------+
