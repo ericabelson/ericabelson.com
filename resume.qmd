@@ -10,7 +10,7 @@ format:
 
 ## Skills
 
-Decisions from data; experimental and study design; GenAI (e.g., dual-prompting, multi-step reasoning, contextual understanding, intent recognition); statistical analysis & ML (e.g., hypothesis testing, causal inference, regression/time-series/hierarchical clustering); ETL; hyperparameter tuning; program R; high-dimensional data collection, cleaning, analysis, visualization, and interpretation; spatial analysis; commitment to diversity, equity, and inclusivity; communication; collaboration; public speaking; teaching; mentorship; writing; budget management
+Decisions from data; experimental & study design; GenAI (e.g., dual-prompting, multi-step reasoning, contextual understanding, intent recognition); statistical analysis & ML (e.g., hypothesis testing, causal inference, regression/time-series/hierarchical clustering); ETL; hyperparameter tuning; program R; high-dimensional data collection, cleaning, analysis, visualization, and interpretation; spatial analysis; commitment to diversity, equity, and inclusivity; communication; collaboration; public speaking; teaching; mentorship; writing; budget management
 
 ## Education
 
