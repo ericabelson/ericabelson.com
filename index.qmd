@@ -1,0 +1,67 @@
+---
+title: "Eric Abelson"
+format: html
+editor: visual
+---
+
+Innovation & Strategy **·** Generative AI **·** Research Scientist **·** Program Manager
+
+Contact: [LinkedIn](https://www.linkedin.com/in/ericabelson/) \| [Medium](https://medium.com/@esabelson) \| [GitHub](https://github.com/ericabelson)
+
+## About
+
+**Eric Abelson leverages deep expertise in research, data science, and AI to
+transform complex, amorphous real-world problems into actionable insights and
+implementable guidance.** With a PhD from Stanford focused on Biology and
+Computer Science, Eric possesses a unique blend of scientific rigor and
+technical skill, making him an invaluable asset for any organization seeking to
+innovate at the intersection of technology, data, and strategy.
+
+His proven track record includes leading over 30 research projects with
+measurable impacts, from developing AI-driven qualitative analysis methods and
+pioneering prompt engineering techniques to creating decision-support tools for
+environmental management and analyzing wildlife movement to improve
+infrastructure safety. Eric excels in managing end-to-end data pipelines,
+applying advanced analytics (including AI/ML, statistics, geospatial modeling),
+and coordinating cross-functional teams to drive projects to successful
+outcomes.
+
+## Skills
+
+-   **AI & Machine Learning:** Generative AI, Prompt Engineering, Natural
+    Language Processing (NLP), AI Solutions Architecture, Bias Mitigation
+    Strategies, Predictive Analytics, Machine Learning Algorithms
+-   **Data Science & Analysis:** Advanced Statistics, Geospatial Modeling, Time
+    Series Analysis, Data Visualization, Data Wrangling, Feature
+    Engineering/Selection, Causal Analysis/Inference, Hazards Modeling,
+    Statistical Modeling
+-   **Technical:** R&D Project Management, Data Pipelines, Python/R (implied),
+    High-Performance Computing (implied), Hardware Development (BioSense
+    project), Database Management (implied), Image Analysis, Acoustic Sensor
+    Data Analysis
+-   **Project & Program Management:** Cross-functional Collaboration, Project
+    Coordination, Budget Management, Stakeholder Management, Translating
+    Research to Actionable Guidance, Technical/Scientific Writing, Grant Writing
+-   **Research:** Academic Research Design & Execution, Ecology, Biology,
+    Conservation Biology, Human Impact Analysis, Autonomous Data Collection
+    Systems
+-   **Communication:** Visual Communication, Report Writing, Presentation Skills
+
+## Education
+
+-   **Stanford University**
+    -   Doctor of Philosophy - PhD, Biology with Computer Science focus
+-   **Stanford University**
+    -   Master of Science - MS
+-   **University of California, Berkeley**
+    -   Bachelor of Science - BS
+
+## Activities & Service
+
+-   **Board Member:** Centro de Educación Ambiental de la Península Yucateca
+    (CEAPY)
+-   **Committee Member:** Diversity, Equity, and Inclusivity Committee, College
+    of Natural Sciences, UT Austin
+-   **Committee Member:** Community and Belonging Committee, College of Natural
+    Sciences, UT Austin
+-   **AI Hackathon Judge:** Freetail Hackers
