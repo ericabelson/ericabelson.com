@@ -1,0 +1,82 @@
+---
+title: "Research"
+format:
+  html: 
+    grid:
+      sidebar-width: 300px
+      body-width: 1200px
+      margin-width: 00px
+      gutter-width: 1.5rem
+---
+
+:::: {.columns}
+
+::: {.column width="20%"}
+
+![](images/puma-427276-960-720-corrinast-pixabay-cc0_orig.jpg){fig-align="left" width=200px}
+
+![](images/robot.jpg){fig-align="left" width=200px}
+
+![](images/dear-1367217-960-720-pixabay-cc0_orig.jpg){fig-align="left" width=200px}
+
+![](images/cir_orig.jpg){fig-align="left" width=200px}
+
+![](images/ker_orig.jpg){fig-align="left" width=200px}
+
+![](images/lcp_orig.jpg){fig-align="left" width=200px}
+
+![](images/coyote-pixabay-cc0_orig.jpg){fig-align="left" width=200px}
+
+![](images/mouse-pexels-cc0_orig.jpg){fig-align="left" width=200px}
+
+![](images/dna-cc0_orig.jpg){fig-align="left" width=200px}
+
+![](images/skull-cc0_orig.jpg){fig-align="left" width=200px}
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+
+**Biological applications of emerging technologies:** The rapid pace of global change requires a concurrent acceleration in the abilities to monitor and detect altered trajectories in ecosystems.  I am applying novel technologies to real-time monitoring of natural systems including air quality (and its effects on pollinators & wildlife), plant phenology, apex predator movement, and acoustic landscapes. Related manuscripts:
+
+-   *Keitt, Timothy H., and Eric S. Abelson. "Ecology in the age of automation." Science 373.6557 (2021): 858-859.*
+
+-   *Garcia-Molina, H., \*S. Kandel, A. Paepcke, M. Theobald, and **E.S. Abelson**. ‘Spreadsheet system and method for managing photos,’ Patent publication number: US 2010/0058163 A1 U.S. Classification: 715/220*
+
+-   *Sundaresan, S., C. Riginos, **E.S. Abelson**. Storage and analysis of camera trap data: alternative approaches (Response to Harris et al. 2010). The Bulletin of the Ecological Society of America 92.2 (2011): 188-195.*
+
+-   *Kandel, S., **E.S. Abelson**, H. Garcia-Molina, A. Paepcke & M. Theobald. 2008. PhotoSpread: a spreadsheet for managing photos. Computer/Human Interactions, 2008 Proceedings 1749-1758*
+
+**\
+Wildlife movement, landscape ecology and linear barriers:** modeled wildlife movement ecology for eight species of special interest in the foothills of California's Sierra Nevada mountains.  Developed new approaches, leveraging HPC techniques, to wildlife movement modeling in the face of linear barriers (e.g. roads).  I am continuing this work through building models exploring deer movement ecology and behavior using sub-populations of "urban" deer vs. those that maintain historically migratory behavior. \
+\
+**Anthropogenic landscape features and movement behavior:** I am broadly interested in wildlife response to anthropogenic stimuli and resulting changes to behavior.  I analyzed a ten-year dataset of puma radio-collar movements, in concert with collected data on human-generated light and noise, to identify perceptual landscape features associated with puma movement behavior.  Related manuscripts:
+
+-   *Miller, A.B., D. King, M. Rowland, J. Chapman, M. Tomosy, C. Liang, **E.S. Abelson**, R. Truex.  Sustaining wildlife with recreation on public lands: a synthesis of research findings, management practices, and research needs.  Gen. Tech. Rep. PNW-GTR-993. Portland, OR: US Department of Agriculture, Forest Service, Pacific Northwest Research Station. 226 p. 993 (2020).*
+
+-   *Niesner, C.A., R.V. Blakey, D.T. Blumstein, **E.S. Abelson**. Wildlife affordances of urban infrastructure: a framework to understand human-wildlife space use.  Frontiers in Conservation Science.  2:774137 (2021)*
+
+-   ***Abelson, E.S.,** B. Seymoure, E.K. Perkin, A. Jechow, H. Moon, C.C.M. Kyba, F. Holker, J. White, T. Longcore.  Ecological Aspects and Measurement of artificial light at night.  Ecology Letters.  In revision. Preprint available on SSRN: https://dx.doi.org/10.2139/ssrn.4353905*
+
+-   ***Abelson, E.S.**, J. Sikich, S. Riley, D.T. Blumstein.  Influence of anthropogenic light on puma road crossing movement.  Preprint available on bioRxiv: doi: https://doi.org/10.1101/2022.10.28.514303*\
+
+**Species temporal and behavioral interactions:** To delve into the proximal mechanisms that may be driving the landscape-of-fear and coexistence, with collaborators, we are exploring relationships, across time, between species (e.g. puma, deer, coyote, bobcat, and humans) cohabiting the same geographic area.  We are also exploring behaviors between domestic dogs and wild coyote to characterize interspecies interactions at urban-wildland interfaces.  Related manuscript:
+
+-   *Boyston, E.E., **E.S. Abelson**, \*A. Kazanjian, D.T. Blumstein. Canid vs. canid: insights into coyote-dog encounters from social media.  Human Wildlife Interactions. (2018) 12(2), 9*
+
+\
+**Small mammal genetic isolation and the role of connectivity structures:** Assessing landscape-level features that increase connectivity for wildlife is difficult - this is complicated by that it can be difficult to know exactly which landscape features wildlife are using as movement corridors.  I am using genetic tools, large highways with variation in connectivity, and small mammal taxa (where small home-range size limits access to the range of connectivity variation) to address this question.    \
+\
+**Correlates of mammalian species endangerment:** Preserving biological diversity in mammalian fauna is made more difficult by the complexity of behaviors that influence their ability to thrive in changing landscapes.  The brain is the seat of information processing, storage and the origination of most behaviors yet the implications of brain measurements have not been explored in conservation biology.  I explored the implications of increased relative encephalization (RE; brain size corrected for body size and phylogeny) and have found a relationship between this rapidly measurable and extinction vulnerability both in modern taxa as well as in Carnivores over the prior 40 million years.  Related manuscripts:
+
+-   ***Abelson, E.S.**  Big brains reduce extinction risk in Carnivora.  Oecologia (2019)*
+
+-   ***Abelson, E.S.**  Brain size is correlated with endangerment status in mammals.  Proc. R. Soc. B. Vol. 283. No. 1825. The Royal Society, 2016.*
+
+:::
+
+::::

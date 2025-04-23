@@ -7,14 +7,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: publications.qmd
-        text: Publications
-      - href: experience.qmd
-        text: Experience
+      - href: resume.qmd
+        text: Resume
+      - href: research.qmd
+        text: Research
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
-    theme: cyborg
+    theme: flatly
     css: styles.css
     toc: true
 
