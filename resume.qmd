@@ -8,10 +8,6 @@ format:
       gutter-width: 1.5rem
 ---
 
-## Skills
-
-Decisions from data; experimental & study design; GenAI (e.g., dual-prompting, multi-step reasoning, contextual understanding, intent recognition); GenAI tools (API, Google Vertex, ChatGPT, Claude); statistical analysis & ML (e.g., hypothesis testing, causal inference, regression/time-series/hierarchical clustering); ETL; hyperparameter tuning; program R; high-dimensional data collection, cleaning, analysis, visualization, and interpretation; spatial analysis; cloud computing (Snowflake, Azure) & high performance computing (HPC); bash; commitment to diversity, equity, and inclusivity; communication; collaboration; public speaking; teaching; mentorship; writing; budget management
-
 ## Education
 
 +:----------+:---------------------------------------------------------------------------+--------:+
@@ -35,6 +31,12 @@ Decisions from data; experimental & study design; GenAI (e.g., dual-prompting, m
 |           | Associate in Arts with Honors\                                             |         |
 |           | GPA: 4.0/4.0                                                               |         |
 +-----------+----------------------------------------------------------------------------+---------+
+
+
+## Skills
+
+Decisions from data; experimental & study design; GenAI (e.g., dual-prompting, multi-step reasoning, contextual understanding, intent recognition); GenAI tools (API, Google Vertex, ChatGPT, Claude); statistical analysis & ML (e.g., hypothesis testing, causal inference, regression/time-series/hierarchical clustering); ETL; hyperparameter tuning; program R; high-dimensional data collection, cleaning, analysis, visualization, and interpretation; spatial analysis; cloud computing (Snowflake, Azure) & high performance computing (HPC); bash; commitment to diversity, equity, and inclusivity; communication; collaboration; public speaking; teaching; mentorship; writing; budget management
+
 
 ## Experience Highlights
 
