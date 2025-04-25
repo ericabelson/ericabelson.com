@@ -10,33 +10,31 @@ format:
 
 ## Education
 
-+:----------+:---------------------------------------------------------------------------+--------:+
-| **Ph.D.** | **Stanford University\                                                     | 2013    |
-|           | **Department of Biological Sciences, Palo Alto, CA                         |         |
-+-----------+----------------------------------------------------------------------------+---------+
-| **M.S.**  | **Stanford University**\                                                   | 2008    |
-|           | Department of Biological Sciences, Palo Alto, CA\                          |         |
-|           | GPA: 4.0/4.0                                                               |         |
-+-----------+----------------------------------------------------------------------------+---------+
-| **B.S.**  | **University of California, Berkeley\                                      | 2005    |
-|           | **Department of Environmental Science Policy and Management, Berkeley, CA\ |         |
-|           | Minor in Forestry and Natural Resources\                                   |         |
-|           | GPA: 3.9/4.0                                                               |         |
-+-----------+----------------------------------------------------------------------------+---------+
-| **A.S.**  | **Cabrillo College**, Santa Cruz\                                          | 2003    |
-|           | Associate in Science with Honors\                                          |         |
-|           | GPA:4.0/4.0                                                                |         |
-+-----------+----------------------------------------------------------------------------+---------+
-| **A.A.**  | **Cabrillo College**, Santa Cruz\                                          | 2003    |
-|           | Associate in Arts with Honors\                                             |         |
-|           | GPA: 4.0/4.0                                                               |         |
-+-----------+----------------------------------------------------------------------------+---------+
-
++:----------+:---------------------------------------------------------------------------+-----:+
+| **Ph.D.** | **Stanford University\                                                     | 2013 |
+|           | **Department of Biological Sciences, Palo Alto, CA                         |      |
++-----------+----------------------------------------------------------------------------+------+
+| **M.S.**  | **Stanford University**\                                                   | 2008 |
+|           | Department of Biological Sciences, Palo Alto, CA\                          |      |
+|           | GPA: 4.0/4.0                                                               |      |
++-----------+----------------------------------------------------------------------------+------+
+| **B.S.**  | **University of California, Berkeley\                                      | 2005 |
+|           | **Department of Environmental Science Policy and Management, Berkeley, CA\ |      |
+|           | Minor in Forestry and Natural Resources\                                   |      |
+|           | GPA: 3.9/4.0                                                               |      |
++-----------+----------------------------------------------------------------------------+------+
+| **A.S.**  | **Cabrillo College**, Santa Cruz\                                          | 2003 |
+|           | Associate in Science with Honors\                                          |      |
+|           | GPA:4.0/4.0                                                                |      |
++-----------+----------------------------------------------------------------------------+------+
+| **A.A.**  | **Cabrillo College**, Santa Cruz\                                          | 2003 |
+|           | Associate in Arts with Honors\                                             |      |
+|           | GPA: 4.0/4.0                                                               |      |
++-----------+----------------------------------------------------------------------------+------+
 
 ## Skills
 
 Decisions from data; experimental & study design; GenAI (e.g., dual-prompting, multi-step reasoning, contextual understanding, intent recognition); GenAI tools (API, Google Vertex, ChatGPT, Claude); statistical analysis & ML (e.g., hypothesis testing, causal inference, regression/time-series/hierarchical clustering); ETL; hyperparameter tuning; program R; high-dimensional data collection, cleaning, analysis, visualization, and interpretation; spatial analysis; cloud computing (Snowflake, Azure) & high performance computing (HPC); bash; commitment to diversity, equity, and inclusivity; communication; collaboration; public speaking; teaching; mentorship; writing; budget management
-
 
 ## Experience Highlights
 
