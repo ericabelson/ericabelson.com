@@ -38,7 +38,6 @@ Decisions from data; experimental & study design; GenAI (e.g., dual-prompting, m
 
 ## Experience Highlights
 
--   Participation in Diversity, Equity, and Inclusion programs
 -   Planning, conducting, and directing research (study design to reporting) to provide actionable insights based on novel data
 -   Large-scale and high-complexity data collection & analysis including: data wrangling, cleaning, reshaping, dimension-reduction, analytics, mining, visualization, and archiving
 -   Program R
@@ -50,6 +49,7 @@ Decisions from data; experimental & study design; GenAI (e.g., dual-prompting, m
 -   Written and verbal reporting to communicate complex analyses in straightforward and practical language
 -   Spatial analyses, biogeography, landscape analyses, remote detection/tracking of wildlife
 -   Balanced multiple responsibilities including allocating resources, budgeting, and identifying workforce and organizational needs to establish and meet objectives. Experience includes recruiting, hiring, and managing employees.
+-   Participation in Diversity, Equity, and Inclusion programs
 
 ## Professional Experience
 
