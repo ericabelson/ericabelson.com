@@ -11,21 +11,21 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Decisions from data; experimental & study design; GenAI (e.g., dual-prompting, multi-step reasoning, contextual understanding, intent recognition); GenAI tools (API, Google Vertex, ChatGPT, Claude); statistical analysis & ML (e.g., hypothesis testing, causal inference, regression/time-series/hierarchical clustering); ETL; hyperparameter tuning; program R; high-dimensional data collection, cleaning, analysis, visualization, and interpretation; spatial analysis; cloud computing (Snowflake, Azure) & high performance computing (HPC); bash; commitment to diversity, equity, and inclusivity; communication; collaboration; public speaking; teaching; mentorship; writing; budget management"
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Resume",
-    "section": "",
-    "text": "Decisions from data; experimental & study design; GenAI (e.g., dual-prompting, multi-step reasoning, contextual understanding, intent recognition); GenAI tools (API, Google Vertex, ChatGPT, Claude); statistical analysis & ML (e.g., hypothesis testing, causal inference, regression/time-series/hierarchical clustering); ETL; hyperparameter tuning; program R; high-dimensional data collection, cleaning, analysis, visualization, and interpretation; spatial analysis; cloud computing (Snowflake, Azure) & high performance computing (HPC); bash; commitment to diversity, equity, and inclusivity; communication; collaboration; public speaking; teaching; mentorship; writing; budget management"
+    "text": "Ph.D.\nStanford University\nDepartment of Biological Sciences, Palo Alto, CA\n2013\n\n\nM.S.\nStanford University\nDepartment of Biological Sciences, Palo Alto, CA\nGPA: 4.0/4.0\n2008\n\n\nB.S.\nUniversity of California, Berkeley\nDepartment of Environmental Science Policy and Management, Berkeley, CA\nMinor in Forestry and Natural Resources\nGPA: 3.9/4.0\n2005\n\n\nA.S.\nCabrillo College, Santa Cruz\nAssociate in Science with Honors\nGPA:4.0/4.0\n2003\n\n\nA.A.\nCabrillo College, Santa Cruz\nAssociate in Arts with Honors\nGPA: 4.0/4.0\n2003"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
     "title": "Resume",
-    "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\n\nPh.D.\nStanford University\nDepartment of Biological Sciences, Palo Alto, CA\n2013\n\n\nM.S.\nStanford University\nDepartment of Biological Sciences, Palo Alto, CA\nGPA: 4.0/4.0\n2008\n\n\nB.S.\nUniversity of California, Berkeley\nDepartment of Environmental Science Policy and Management, Berkeley, CA\nMinor in Forestry and Natural Resources\nGPA: 3.9/4.0\n2005\n\n\nA.S.\nCabrillo College, Santa Cruz\nAssociate in Science with Honors\nGPA:4.0/4.0\n2003\n\n\nA.A.\nCabrillo College, Santa Cruz\nAssociate in Arts with Honors\nGPA: 4.0/4.0\n2003"
+    "section": "",
+    "text": "Ph.D.\nStanford University\nDepartment of Biological Sciences, Palo Alto, CA\n2013\n\n\nM.S.\nStanford University\nDepartment of Biological Sciences, Palo Alto, CA\nGPA: 4.0/4.0\n2008\n\n\nB.S.\nUniversity of California, Berkeley\nDepartment of Environmental Science Policy and Management, Berkeley, CA\nMinor in Forestry and Natural Resources\nGPA: 3.9/4.0\n2005\n\n\nA.S.\nCabrillo College, Santa Cruz\nAssociate in Science with Honors\nGPA:4.0/4.0\n2003\n\n\nA.A.\nCabrillo College, Santa Cruz\nAssociate in Arts with Honors\nGPA: 4.0/4.0\n2003"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\nDecisions from data; experimental & study design; GenAI (e.g., dual-prompting, multi-step reasoning, contextual understanding, intent recognition); GenAI tools (API, Google Vertex, ChatGPT, Claude); statistical analysis & ML (e.g., hypothesis testing, causal inference, regression/time-series/hierarchical clustering); ETL; hyperparameter tuning; program R; high-dimensional data collection, cleaning, analysis, visualization, and interpretation; spatial analysis; cloud computing (Snowflake, Azure) & high performance computing (HPC); bash; commitment to diversity, equity, and inclusivity; communication; collaboration; public speaking; teaching; mentorship; writing; budget management"
   },
   {
     "objectID": "resume.html#experience-highlights",
