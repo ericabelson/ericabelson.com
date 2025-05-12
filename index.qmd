@@ -8,12 +8,12 @@ format:
 
 ### About Me
 
-- Research scientist and Gen AI strategist with a track record of turning complexity into clarity to deliver ethical, data-driven and AI-powered solutions.
+- Research scientist, Program Manager, and Gen AI strategist with a track record of turning complexity into clarity to deliver ethical, data-driven and AI-powered solutions.
 
-- Chief Science Officer at Method Qualitative; leading GenAI pipeline design with reflexive prompting, multi-step reasoning, and thematic analysis; championing ethical AI frameworks and scalable, data-driven strategies for industry impact.
+- Chief Science Officer at Method Qualitative; leading GenAI & agentic pipeline design with reflexive prompting, multi-step reasoning, and thematic analysis; championing ethical AI frameworks and scalable, data-driven strategies for industry impact.
 
 ### Experience
 
 <font size="3">
-15+ years leading project design; data collection, wrangling, & cleaning; coding in R; statistical analyses; machine learning; publishing results and communicating with stakeholders. Expertise in interpreting high-dimensional data to identify actionable insights for real-world solutions and working both independently and collaboratively. Advocate for diversity, equity, and inclusivity programs with a track record for productively working within teams, managing personnel, and one-on-one mentoring. Secured \>\$1.25 million in competitive grants and fellowships while managing budgets and providing timely, impactful, and actionable deliverables.
+15+ years experience in program managment; project development from concept to delivery; data collection, wrangling, & cleaning; coding in R; statistical analyses; machine learning; publishing results and communicating with stakeholders. Expertise in working with high-dimensional data to identify actionable insights for real-world solutions and working both independently and collaboratively. Advocate for diversity, equity, and inclusivity programs with a track record for productively working within teams, managing personnel, and one-on-one mentoring. Secured \>\$1.25 million in competitive grants and fellowships while managing budgets and providing timely, impactful, and actionable deliverables.
 </font>
