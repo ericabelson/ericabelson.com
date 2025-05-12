@@ -11,7 +11,7 @@ html {
 
 body {
   /* Style the body as the transparent white rounded box */
-  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+  background-color: rgba(255, 255, 255, 0.88); /* Semi-transparent white */
   border-radius: 15px;                      /* Rounded corners */
   padding: 2em 3em;                         /* Inner spacing */
   max-width: 80vw; /* Or your preferred width */
