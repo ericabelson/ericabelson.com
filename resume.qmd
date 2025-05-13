@@ -71,13 +71,15 @@ Decisions from data; experimental & study design; GenAI (e.g., agentic, dual-pro
 |                                                                | Audio Engineer                      |              |
 +----------------------------------------------------------------+-------------------------------------+--------------+
 
-## AI Technical Writing & Open-Source Code 
+## AI Technical Writing, Open-Source Code, and Outreach 
 
 Abelson, E.S. & Overholt, K. (2025, May 8). *Finding Earth Engine Data Doesn’t Have to Be a Struggle: Let AI Agents Do the Heavy Lifting.* Medium – Google Cloud Community.  
 GitHub: https://github.com/ericabelson/agentic‑gee‑assistant
 
 Abelson, E.S. & Overholt, K. (2025, Apr 22). *Building an Agentic Scientific Research Team with Google’s Agent Development Kit.* Medium.  
 GitHub: https://github.com/ericabelson/agentic‑research‑assistant
+
+AI Judge. (2024, November). HackTX - 24-hour UT Austin hackathon  
 
 ## Publications and Patents
 
