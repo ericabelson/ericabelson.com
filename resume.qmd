@@ -129,7 +129,9 @@ Kandel, S., **E.S. Abelson**, H. Garcia-Molina, A. Paepcke & M. Theobald. 2008. 
 
 ### Invited Seminars
 
-Wildlife Corridor Webinar, Environment California.Wildlife Corridors and Connectivity.September 2021.Los Angeles, CA.
+Agentic AI; Using Google Agentic Development Kit to discover Google Earth Engine data.  AI Camp Virtual Event. May 2025.  Co-presented with Kristopher Overholt (Google Developer Advocate)
+
+Wildlife Corridor Webinar, Environment California. Wildlife Corridors and Connectivity.September 2021.Los Angeles, CA.
 
 La Kretz Center for California Conservation Science 2021 Public Lecture. May 2021.Los Angeles, CA.
 
