@@ -11,6 +11,7 @@ This page includes popular writing and scientific publications.
 - [Finding Earth Engine Data Doesn’t Have to Be a Struggle: Let AI Agents Do the Heavy Lifting](https://medium.com/google-cloud/finding-earth-engine-data-doesnt-have-to-be-a-struggle-let-ai-agents-do-the-heavy-lifting-5b869626b506) – Co-authored with Kristopher Overholt (Google), this post explains how agentic AI built with the Agent Development Kit (ADK) can simplify the search for datasets in Google Earth Engine by translating research questions into dataset recommendations.
 - [Building an Agentic Scientific Research Team with Google’s Agent Development Kit](https://medium.com/@esabelson/building-an-agentic-scientific-research-team-with-googles-agent-development-kit-4c4b024e29de) – Co-authored with Kristopher Overholt (Google), this post walks through creating a multi-agent research team using ADK to automate scientific literature review and methodology extraction.
 
+
 ### LinkedIn Posts
 
 - [Preparing National Science Foundation (NSF) proposals is time-consuming...](https://www.linkedin.com/posts/ericabelson_preparing-national-science-foundation-nsf-activity-7330969409219346433-A4SB) – Introduces *author-affiliations*, a lightweight Python tool that automates the creation of NSF COA documents by pulling structured author and affiliation metadata from Crossref and OpenAlex, based on ORCID export lists.
@@ -19,14 +20,10 @@ This page includes popular writing and scientific publications.
 - [𝗔𝗜 𝗮𝗻𝗱 𝗠𝗶𝘁𝗶𝗴𝗮𝘁𝗶𝗻𝗴 𝗕𝗶𝗮𝘀 𝗶𝗻 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗮](https://www.linkedin.com/posts/ericabelson_%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%A0%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%95%F0%9D%97%B6%F0%9D%97%AE%F0%9D%98%80-activity-7263692964030246913-9Q-d) – Reflections on how GenAI can both introduce and mitigate bias in academic writing, with a focus on promoting inclusion, accessibility, and diverse representation through the responsible use of AI tools like LLMs.
 
 
-
-- [Preparing National Science Foundation (NSF) proposals]() - Tips on organizing materials for a successful submission.
-
-
 ## Scientific Publications
 
 ### Publications and Patents
-Russo, N., K. Gahm, M. Zuercher, K. Hernandez, R. Blakey, C. Niesner, **E.S. Abelson**. Monitoring animal movement diversity as a component of biodiversity. Frontiers in Ecology and the Environment. In review
+Russo, N., K. Gahm, M. Zuercher, K. Hernandez, R. Blakey, C. Niesner, **E.S. Abelson**. Monitoring animal movement diversity as a component of biodiversity. Frontiers in Ecology and the Environment. In review & EcoEvoRxiv: https://ecoevorxiv.org/repository/object/8552/download/15998/ (2025)
 
 Contina, A., **E.S. Abelson**, B. Allison, B. Stokes, K.F. Sanchez, H.M. Hernandez, A.M. Kepple, Q. Tran, I. Kazen, K.A. Brown, H.J. Powell, T.H. Keitt. BioSense, An Automated sensing node for organismal and environmental biology. HardwareX. (2024)
 
@@ -69,7 +66,7 @@ Sundaresan, S., C. Riginos, **E.S. Abelson**. Storage and analysis of camera tra
 Kandel, S., **E.S. Abelson**, H. Garcia-Molina, A. Paepcke & M. Theobald. 2008. PhotoSpread: a spreadsheet for managing photos. Computer/Human Interactions, 2008 Proceedings 1749-1758. Available online at: <http://dbpubs.stanford.edu:8090/pub/2007-28>
 
 
-## Reports & Other Publications
+## Scientific Report 
 
 Jonathan W. Long, Patricia N. Manley, Angela M. White, Keith M. Slauson, Stacy A. Drury, **Eric S. Abelson**, Brandon M. Collins, Keith Reynolds, William Elliot and I. Sue Miller, Rob Scheller, Charles Maxwell, Mariana Dobre, Erin Brooks, Sam Evans, Tim Holland, Matthew Potts, Adrian Harpold, Sebastian Krogh Navarro, John Mejia, Chad Hoffman, Justin Ziegler. Lake Tahoe West Science Summary of Findings Report. Supporting long-term forest resilience in the Lake Tahoe basin. Lake Tahoe West Restoration Partnership. (November 3, 2020)
 
