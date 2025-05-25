@@ -11,6 +11,8 @@ website:
         text: Resume
       - href: research.qmd
         text: Research
+      - href: publications.qmd
+        text: Publications
       - href: contact.qmd
         text: Contact
 

@@ -1,0 +1,70 @@
+---
+title: "Publications"
+---
+
+This page includes popular writing and scientific publications.
+
+## Popular & Professional Writing
+
+### Medium Articles
+
+- [Finding Earth Engine Data Doesn’t Have to Be a Struggle: Let AI Agents Do the Heavy Lifting](https://medium.com/@esabelson/finding-earth-engine-data-doesnt-have-to-be-a-struggle-let-ai-agents-do-the-heavy-lifting) - How AI agents streamline the search for datasets in Google Earth Engine.
+- [Building an Agentic Scientific Research Team with Google’s Agent Development Kit](https://medium.com/@esabelson/building-an-agentic-scientific-research-team-with-googles-agent-development-kit) - Discusses assembling a research workflow powered by Google’s agent tools.
+
+### LinkedIn Posts
+
+- [Preparing National Science Foundation (NSF) proposals](https://www.linkedin.com/posts/ericabelson_preparing-national-science-foundation-nsf-activity-7330969409219346433-A4SB) - Tips on organizing materials for a successful submission.
+- [Post on inclusive practices in science](https://www.linkedin.com/posts/ericabelson_accessibility-inclusion-diversityinscience-activity-7255277886784376835-IkPF) - Thoughts on accessibility and diversity in research settings.
+- [Additional reflections on leadership](https://www.linkedin.com/posts/ericabelson_%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%A0%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%95%F0%9D%97%B6%F0%9D%97%AE%F0%9D%98%80-activity-7263692964030246913-9Q-d) - Short note on team motivation.
+- [Learning through collaboration](https://www.linkedin.com/posts/ericabelson_%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%94%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0-%F0%9D%97%AA%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB-activity-7252785814881845249-b7v8) - Reflects on the value of collaborative problem solving.
+
+## Scientific Publications
+
+### Publications and Patents
+Russo, N., K. Gahm, M. Zuercher, K. Hernandez, R. Blakey, C. Niesner, **E.S. Abelson**. Monitoring animal movement diversity as a component of biodiversity. Frontiers in Ecology and the Environment. In review
+
+Contina, A., **E.S. Abelson**, B. Allison, B. Stokes, K.F. Sanchez, H.M. Hernandez, A.M. Kepple, Q. Tran, I. Kazen, K.A. Brown, H.J. Powell, T.H. Keitt. BioSense, An Automated sensing node for organismal and environmental biology. HardwareX. (2024)
+
+Barrientos, R., W. Vickers, T. Longcore, **E.S. Abelson**, J. Dellinger, D.P. Waetjen, G. Fandos, F.M. Shilling. Nearby night lighting, rather than sky glow, is associated with habitat selection by a top predator in human-dominated landscapes. Philosophical Transations of the Royal Society B. (2023)
+
+\^**Abelson, E.S.**, B. Seymoure, E.K. Perkin, A. Jechow, H. Moon, C.C.M. Kyba, F. Holker, J. White, T. Longcore. Ecological Aspects and Measurement of artificial light at night. Ecology Letters. In revision. Preprint available on SSRN: <https://dx.doi.org/10.2139/ssrn.4353905>
+
+\*Valler, J., S. Riley, D.T. Blumstein, \^**E.S. Abelson**. Impact of extreme heat events on puma movement near the urban-wildland interface. Western wildlife. In prep.
+
+\^**Abelson, E.S.** White-flash film camera traps affect behavior and bias data collected for deer, Odocoileus hemionus. Western Wildlife. In submission
+
+\*Nojoumi, M., A.P. Clevenger, D.T. Blumstein, \^**E.S. Abelson**. Vehicular Traffic Effects on Elk and White-tailed Deer at Wildlife Crossings in Banff National Park. Plos ONE. 17(11): e0269587. (<https://doi.org/10.1371/journal.pone.0269587>) (2022)
+
+\^**Abelson, E.S.**, K.M. Reynolds, A.M. White, J.W. Long, C. Maxwell, P.N. Manley. Evaluating pathways to social and ecological landscape resilience. Ecology and Society. 27(4):8. (<https://doi.org/10.5751/ES-13243-270408>) (2022)
+
+White, A.M., T.G. Holland, **E.S. Abelson**, A. Kretchun, C.J. Maxwell, R.M. Scheller. Simulating wildlife habitat dynamics to inform best management strategies under a changing climate in the Lake Tahoe basin, California. Ecology and Society. 27. (doi:10.5751/ES-13301-270231) (2022)
+
+\^**Abelson, E.S.**, J. Sikich, S. Riley, D.T. Blumstein. Influence of anthropogenic light on puma road crossing movement. bioRxiv: doi: <https://doi.org/10.1101/2022.10.28.514303> (2022)
+
+Keitt T., **E.S. Abelson**. Ecology in the age of automation. Science 373:6557, 858-859 (2021)
+
+Niesner, C.A., R.V. Blakey, D.T. Blumstein, \^**E.S. Abelson**. Wildlife affordances of urban infrastructure: a framework to understand human-wildlife space use. Frontiers in Conservation Science. 2:774137 (2021)
+
+\^**Abelson, E.S.**, K.M. Reynolds, P. N. Manley, S. Paplanus. Strategic decision support for long-term conservation management planning. Forest Ecology and Management. 497 (2021)
+
+Miller, A.B., D. King, M. Rowland, J. Chapman, M. Tomosy, C. Liang, **E.S. Abelson**, R. Truex. Sustaining wildlife with recreation on public lands: a synthesis of research findings, management practices, and research needs. Gen. Tech. Rep. PNW-GTR-993. Portland, OR: US Department of Agriculture, Forest Service, Pacific Northwest Research Station. 226 p. 993 (2020).
+
+\^**Abelson, E.S.** Big brains reduce extinction risk in Carnivora. Oecologia (2019)
+
+\*Neco, L.C., **E.S. Abelson**, B. Natterson-Horowitz, D.T. Blumstein. The evolution of self-medication behaviour in mammals. Biol J Linn Soc 128, 373-378 (2019)
+
+Boyston, E.E., **E.S. Abelson**, \*A. Kazanjian, D.T. Blumstein. Canid vs. canid: insights into coyote-dog encounters from social media. Human Wildlife Interactions. (2018) 12(2), 9
+
+\^**Abelson, E.S.** Brain size is correlated with endangerment status in mammals. Proc. R. Soc. B. Vol. 283. No. 1825. The Royal Society, 2016.
+
+Garcia-Molina, H., \*S. Kandel, A. Paepcke, M. Theobald, and **E.S. Abelson**. ‘Spreadsheet system and method for managing photos,’ Patent publication number: US 2010/0058163 A1 U.S. Classification: 715/220
+
+Sundaresan, S., C. Riginos, **E.S. Abelson**. Storage and analysis of camera trap data: alternative approaches (Response to Harris et al. 2010). The Bulletin of the Ecological Society of America 92.2 (2011): 188-195.
+
+Kandel, S., **E.S. Abelson**, H. Garcia-Molina, A. Paepcke & M. Theobald. 2008. PhotoSpread: a spreadsheet for managing photos. Computer/Human Interactions, 2008 Proceedings 1749-1758. Available online at: <http://dbpubs.stanford.edu:8090/pub/2007-28>
+
+
+## Reports & Other Publications
+
+Jonathan W. Long, Patricia N. Manley, Angela M. White, Keith M. Slauson, Stacy A. Drury, **Eric S. Abelson**, Brandon M. Collins, Keith Reynolds, William Elliot and I. Sue Miller, Rob Scheller, Charles Maxwell, Mariana Dobre, Erin Brooks, Sam Evans, Tim Holland, Matthew Potts, Adrian Harpold, Sebastian Krogh Navarro, John Mejia, Chad Hoffman, Justin Ziegler. Lake Tahoe West Science Summary of Findings Report. Supporting long-term forest resilience in the Lake Tahoe basin. Lake Tahoe West Restoration Partnership. (November 3, 2020)
+
