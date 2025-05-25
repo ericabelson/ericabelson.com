@@ -80,52 +80,7 @@ Abelson, E.S. & Overholt, K. (2025, Apr 22). *Building an Agentic S
 GitHub: https://github.com/ericabelson/agentic‑research‑assistant
 
 AI Judge. (2024, November). HackTX - 24-hour UT Austin hackathon  
-
-## Publications and Patents
-
-`*` indicates undergraduate co-author/advisee, `^` indicates corresponding author
-
-Russo, N., K. Gahm, M. Zuercher, K. Hernandez, R. Blakey, C. Niesner, **E.S. Abelson**. Monitoring animal movement diversity as a component of biodiversity. Frontiers in Ecology and the Environment. In review
-
-Contina, A., **E.S. Abelson**, B. Allison, B. Stokes, K.F. Sanchez, H.M. Hernandez, A.M. Kepple, Q. Tran, I. Kazen, K.A. Brown, H.J. Powell, T.H. Keitt. BioSense, An Automated sensing node for organismal and environmental biology. HardwareX. (2024)
-
-Barrientos, R., W. Vickers, T. Longcore, **E.S. Abelson**, J. Dellinger, D.P. Waetjen, G. Fandos, F.M. Shilling. Nearby night lighting, rather than sky glow, is associated with habitat selection by a top predator in human-dominated landscapes. Philosophical Transations of the Royal Society B. (2023)
-
-\^**Abelson, E.S.**, B. Seymoure, E.K. Perkin, A. Jechow, H. Moon, C.C.M. Kyba, F. Holker, J. White, T. Longcore. Ecological Aspects and Measurement of artificial light at night. Ecology Letters. In revision. Preprint available on SSRN: <https://dx.doi.org/10.2139/ssrn.4353905>
-
-\*Valler, J., S. Riley, D.T. Blumstein, \^**E.S. Abelson**. Impact of extreme heat events on puma movement near the urban-wildland interface. Western wildlife. In prep.
-
-\^**Abelson, E.S.** White-flash film camera traps affect behavior and bias data collected for deer, Odocoileus hemionus. Western Wildlife. In submission
-
-\*Nojoumi, M., A.P. Clevenger, D.T. Blumstein, \^**E.S. Abelson**. Vehicular Traffic Effects on Elk and White-tailed Deer at Wildlife Crossings in Banff National Park. Plos ONE. 17(11): e0269587. (<https://doi.org/10.1371/journal.pone.0269587>) (2022)
-
-\^**Abelson, E.S.**, K.M. Reynolds, A.M. White, J.W. Long, C. Maxwell, P.N. Manley. Evaluating pathways to social and ecological landscape resilience. Ecology and Society. 27(4):8. (<https://doi.org/10.5751/ES-13243-270408>) (2022)
-
-White, A.M., T.G. Holland, **E.S. Abelson**, A. Kretchun, C.J. Maxwell, R.M. Scheller. Simulating wildlife habitat dynamics to inform best management strategies under a changing climate in the Lake Tahoe basin, California. Ecology and Society. 27. (doi:10.5751/ES-13301-270231) (2022)
-
-\^**Abelson, E.S.**, J. Sikich, S. Riley, D.T. Blumstein. Influence of anthropogenic light on puma road crossing movement. bioRxiv: doi: <https://doi.org/10.1101/2022.10.28.514303> (2022)
-
-Keitt T., **E.S. Abelson**. Ecology in the age of automation. Science 373:6557, 858-859 (2021)
-
-Niesner, C.A., R.V. Blakey, D.T. Blumstein, \^**E.S. Abelson**. Wildlife affordances of urban infrastructure: a framework to understand human-wildlife space use. Frontiers in Conservation Science. 2:774137 (2021)
-
-\^**Abelson, E.S.**, K.M. Reynolds, P. N. Manley, S. Paplanus. Strategic decision support for long-term conservation management planning. Forest Ecology and Management. 497 (2021)
-
-Miller, A.B., D. King, M. Rowland, J. Chapman, M. Tomosy, C. Liang, **E.S. Abelson**, R. Truex. Sustaining wildlife with recreation on public lands: a synthesis of research findings, management practices, and research needs. Gen. Tech. Rep. PNW-GTR-993. Portland, OR: US Department of Agriculture, Forest Service, Pacific Northwest Research Station. 226 p. 993 (2020).
-
-\^**Abelson, E.S.** Big brains reduce extinction risk in Carnivora. Oecologia (2019)
-
-\*Neco, L.C., **E.S. Abelson**, B. Natterson-Horowitz, D.T. Blumstein. The evolution of self-medication behaviour in mammals. Biol J Linn Soc 128, 373-378 (2019)
-
-Boyston, E.E., **E.S. Abelson**, \*A. Kazanjian, D.T. Blumstein. Canid vs. canid: insights into coyote-dog encounters from social media. Human Wildlife Interactions. (2018) 12(2), 9
-
-\^**Abelson, E.S.** Brain size is correlated with endangerment status in mammals. Proc. R. Soc. B. Vol. 283. No. 1825. The Royal Society, 2016.
-
-Garcia-Molina, H., \*S. Kandel, A. Paepcke, M. Theobald, and **E.S. Abelson**. ‘Spreadsheet system and method for managing photos,’ Patent publication number: US 2010/0058163 A1 U.S. Classification: 715/220
-
-Sundaresan, S., C. Riginos, **E.S. Abelson**. Storage and analysis of camera trap data: alternative approaches (Response to Harris et al. 2010). The Bulletin of the Ecological Society of America 92.2 (2011): 188-195.
-
-Kandel, S., **E.S. Abelson**, H. Garcia-Molina, A. Paepcke & M. Theobald. 2008. PhotoSpread: a spreadsheet for managing photos. Computer/Human Interactions, 2008 Proceedings 1749-1758. Available online at: <http://dbpubs.stanford.edu:8090/pub/2007-28>
+A complete list of my writing and publications can be found on the [Publications](publications.qmd) page.
 
 ## Mentorship
 
@@ -256,43 +211,6 @@ Roe J.D., T. McCleary, **E.S. Abelson**. Efficacy of camera traps to detect herp
 -   Treasurer: Society for Conservation Biology, Berkeley Chapter, Berkeley, CA. Organized chapter activities and field trips, facilitated meetings, and managed fiscal matters. 2004-2005
 -   Botanical Liaison: Native plant restoration project, Strawberry Creek, Berkeley, CA. Assisted in determining appropriate plants for specific ecological communities. 2004-2005
 
-## Reports & Other Publications
-
-Jonathan W. Long, Patricia N. Manley, Angela M. White, Keith M. Slauson, Stacy A. Drury, **Eric S. Abelson**, Brandon M. Collins, Keith Reynolds, William Elliot and I. Sue Miller, Rob Scheller, Charles Maxwell, Mariana Dobre, Erin Brooks, Sam Evans, Tim Holland, Matthew Potts, Adrian Harpold, Sebastian Krogh Navarro, John Mejia, Chad Hoffman, Justin Ziegler. Lake Tahoe West Science Summary of Findings Report. Supporting long-term forest resilience in the Lake Tahoe basin. Lake Tahoe West Restoration Partnership. (November 3, 2020)
-
-## Selected Press
-
-KTLA: As California eyes more wildlife crossings, researchers say some animals might be scared to use them. <https://tinyurl.com/bdnes4dy>. January 15, 2023
-
-UCLA Newsroom: Is it safe? Why some animals fear using wildlife crossings. <https://tinyurl.com/4mh5pxxf>. December 22, 2022
-
-Inside the Forest Service: Supporting long-term forest resilience in the Lake Tahoe basin. <https://www.fs.usda.gov/inside-fs/delivering-mission/sustain/supporting-long-term-forest-resilience-lake-tahoe-basin>. September 24, 2021
-
-Lake Tahoe West Landscape Restoration Strategy. (<https://www.nationalforests.org/assets/images/LTW-Landscape-Restoration-Strategy-02Dec2019-FINAL.pdf>). December 2019
-
-PSW Connections: Research project to help the science of wildlife passages along existing roadways. winter/spring/summer 2016 (<http://www.fs.fed.us/psw/>)
-
-USFS The Chief’s Desk, People Places and Things: Science to guide California highway wildlife passages. July 20, 2016
-
-Press coverage of Brain size is correlated with endangerment status in mammals published in the Proceedings of the Royal Society, Biology 2016: \> Interviews: Discovery Channel News, Ireland National Radio RTE Radio1, BBC Inside Science, Conservation Magazine, Stanford News Service \> Also reported by: Agence France Presse, BBC.com, RiAus, The Japan Times, Science Alert, Tech Times, Nature World News, Daily Mail, Phys.org, Laboratory Equipment
-
-Quest TV, KQED: Cameras capture the secret lives of Jasper Ridge animals. September 25, 2012 (<http://science.kqed.org/quest/video/your-videos-on-quest-steve-fyffe>)
-
-ABC 7, 6pm News: Life after dark in a bay area forest. August 3, 2012 (<http://abclocal.go.com/kgo/video?id=8761455&pid=null>)
-
-Nature News & Scientific American: Mostly the big-brained survive. July 17, 2012 (<http://www.nature.com/news/mostly-the-big-brained-survive-1.11027> & <https://www.scientificamerican.com/article.cfm?id=mostly-big-brained-survive>)
-
-Stanford News Service: Field research at Jasper Ridge, computers and cognition. (<http://news.stanford.edu/news/multi/features/jasper/part5.html>)
-
-KZSU radio interview (Peninsula Report): Night life of local wildlife. June 8, 2012 (<http://kzsunews.tumblr.com/post/24714505458/elizaonair-this-week-we-talk-the-night-life-of>)
-
-Stanford News Service, Video: Cameras capture biodiversity at Jasper Ridge preserve. June 1, 2012 (<http://youtu.be/CzSCu2FOj0Q>)
-
-Stanford News Service: Caught on tape: The nightlife of animals at Stanford's Jasper Ridge preserve. May 31, 2012 (<http://news.stanford.edu/news/2012/june/jasper-ridge-cameras-060112.html>)
-
-Stanford Report: Jasper Ridge, Research in the Field at Stanford’s Biological Preserve; Computers and Cognition. October 22, 2008 (also online at: <http://multi.stanford.edu/features/jasper/part5.html>)
-
-## Grants & Honors
 
 (\$622,695 since 2020)
 
@@ -302,42 +220,6 @@ Stanford Report: Jasper Ridge, Research in the Field at Stanford’s Biological 
 -   Army Research Office (subaward): Science of embodied innovation, learning and control. (**\$27,496**). 2021-2023
 -   Stengl-Wyer Grant: Leveraging big data science for ecological research in an era of global change: a Forest Global Earth Observatory (ForestGEO) plot at Stengl Lost Pines Biological Station. Co-PI. (**\$149,828**). 2021-2022
 -   Stengl-Wyer Endowment: Integration of machine learning and remote sensing for improved understanding of environmental change in central Texas. Co-PI. (**\$256,479**). 2020-2023
--   USDA Forest Service: Exploring wildlife movements response to ephemeral vegetation dynamics – applying remote sensing to better understand wildlife movement at broad spatio-temporal scales. (**\$25,000**). 2019-2024.
--   UCLA La Kretz Center for California Conservation Science, Post-doctoral Fellowship. 2014-2015
--   Southern California Research Learning Center’s Grant Program, 2014-2016
--   National Science Foundation Dissertation Improvement Grant, 2011-2013
--   Woods Institute for the Environment, Stanford University, Rising Environmental Leader 2012
--   Stanford Ecology & Evolutionary Biology Travel Grant, 2012
--   #SciFund Challenge, 2011
--   Stanford SCORE Grant, 2009 & 2010
--   National Science Foundation Graduate Research Fellowship, Honorable Mention, 2008
--   Gomez Grant for Wildlife Ecology, 2007
--   U.C. Berkeley Grants and Honors:
-    -   Highest honors in Conservation and Resource Studies, University of California, Berkeley. 2005
-    -   Honors in the College of Natural Resources, University of California, Berkeley. 2005
-    -   University Honors, University of California, Berkeley. 2003-2005
-    -   Rosentiel Grant, 2005
-    -   Student Life Advising Grant, University of California, Berkeley, 2005
-    -   Undergraduate Research Opportunities Program Grant, College of Natural Resources, 2005
-    -   Allmond Scholarship, 2003-2004
-    -   Isais Hellman Scholarship, 2003-2004
-    -   University of California at Berkeley University Grant 2003-2004
-    -   Beth Blanchette Memorial Scholarship, 2003
-
-## Ongoing Collaborative Projects
-
-**Micro-to-Macro, UT Austin Energy Institute.** Investigating how and if microscale processes can be aggregated to consistently match macroscale patterns. <https://energy.utexas.edu/micro-macro>. 2021-present
-
-**Resilient Species and Ecosystems, UT Austin Planet Texas 2050, Bridging Barriers.** <https://bridgingbarriers.utexas.edu/resilient-species-and-ecosystems>. 2022-present
-
-## Teaching
-
--   Guest lecturer, UT Austin: Science literacy and numeracy: ecology and evolution. Wildlife behavior and decision making. November 2022
--   Guest lecturer, UT Austin Bio 398E: Subjects and skills for graduate students II. Wildlife ecology at the intersection of conservation and behavior. March 27, 2019
--   Guest Lecturer, Stanford Biology 105, Ecology and Natural History of Jasper Ridge Biological Preserve. Wildlife ecology and tracking. Stanford University, Stanford, CA. Winter 2009-2018
--   Guest Lecturer, UCSC Environmental Science 169, Global Change Ecology. Climate change and wildlife. University of California, Santa Cruz, Santa Cruz, CA. Winter 2014
--   Guest Lecturer, UCSC Environmental Science 104A. Introduction to Environmental Field Methods. Wildlife survey methods, monitoring and behavioral data collection. University of California, Santa Cruz, Santa Cruz, CA. Summer 2013
--   Teaching Assistant, Stanford Biology 312. Ethical Issues in Ecology and Evolutionary Biology. Stanford University, Stanford, CA. Autumn 2008
 -   Teaching Assistant, Stanford Biology 145/245. Behavioral Ecology. Stanford University, Stanford, CA. Spring 2008
 
 ### Outreach Teaching
