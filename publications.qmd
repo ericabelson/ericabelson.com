@@ -62,39 +62,9 @@ Garcia-Molina, H., \*S. Kandel, A. Paepcke, M. Theobald, and **E.S. Abelson**. �
 Sundaresan, S., C. Riginos, **E.S. Abelson**. Storage and analysis of camera trap data: alternative approaches (Response to Harris et al. 2010). The Bulletin of the Ecological Society of America 92.2 (2011): 188-195.
 
 Kandel, S., **E.S. Abelson**, H. Garcia-Molina, A. Paepcke & M. Theobald. 2008. PhotoSpread: a spreadsheet for managing photos. Computer/Human Interactions, 2008 Proceedings 1749-1758. Available online at: <http://dbpubs.stanford.edu:8090/pub/2007-28>
+
+
 ## Reports & Other Publications
 
 Jonathan W. Long, Patricia N. Manley, Angela M. White, Keith M. Slauson, Stacy A. Drury, **Eric S. Abelson**, Brandon M. Collins, Keith Reynolds, William Elliot and I. Sue Miller, Rob Scheller, Charles Maxwell, Mariana Dobre, Erin Brooks, Sam Evans, Tim Holland, Matthew Potts, Adrian Harpold, Sebastian Krogh Navarro, John Mejia, Chad Hoffman, Justin Ziegler. Lake Tahoe West Science Summary of Findings Report. Supporting long-term forest resilience in the Lake Tahoe basin. Lake Tahoe West Restoration Partnership. (November 3, 2020)
-
-## Selected Press
-
-KTLA: As California eyes more wildlife crossings, researchers say some animals might be scared to use them. <https://tinyurl.com/bdnes4dy>. January 15, 2023
-
-UCLA Newsroom: Is it safe? Why some animals fear using wildlife crossings. <https://tinyurl.com/4mh5pxxf>. December 22, 2022
-
-Inside the Forest Service: Supporting long-term forest resilience in the Lake Tahoe basin. <https://www.fs.usda.gov/inside-fs/delivering-mission/sustain/supporting-long-term-forest-resilience-lake-tahoe-basin>. September 24, 2021
-
-Lake Tahoe West Landscape Restoration Strategy. (<https://www.nationalforests.org/assets/images/LTW-Landscape-Restoration-Strategy-02Dec2019-FINAL.pdf>). December 2019
-
-PSW Connections: Research project to help the science of wildlife passages along existing roadways. winter/spring/summer 2016 (<http://www.fs.fed.us/psw/>)
-
-USFS The Chief’s Desk, People Places and Things: Science to guide California highway wildlife passages. July 20, 2016
-
-Press coverage of Brain size is correlated with endangerment status in mammals published in the Proceedings of the Royal Society, Biology 2016: \> Interviews: Discovery Channel News, Ireland National Radio RTE Radio1, BBC Inside Science, Conservation Magazine, Stanford News Service \> Also reported by: Agence France Presse, BBC.com, RiAus, The Japan Times, Science Alert, Tech Times, Nature World News, Daily Mail, Phys.org, Laboratory Equipment
-
-Quest TV, KQED: Cameras capture the secret lives of Jasper Ridge animals. September 25, 2012 (<http://science.kqed.org/quest/video/your-videos-on-quest-steve-fyffe>)
-
-ABC 7, 6pm News: Life after dark in a bay area forest. August 3, 2012 (<http://abclocal.go.com/kgo/video?id=8761455&pid=null>)
-
-Nature News & Scientific American: Mostly the big-brained survive. July 17, 2012 (<http://www.nature.com/news/mostly-the-big-brained-survive-1.11027> & <https://www.scientificamerican.com/article.cfm?id=mostly-big-brained-survive>)
-
-Stanford News Service: Field research at Jasper Ridge, computers and cognition. (<http://news.stanford.edu/news/multi/features/jasper/part5.html>)
-
-KZSU radio interview (Peninsula Report): Night life of local wildlife. June 8, 2012 (<http://kzsunews.tumblr.com/post/24714505458/elizaonair-this-week-we-talk-the-night-life-of>)
-
-Stanford News Service, Video: Cameras capture biodiversity at Jasper Ridge preserve. June 1, 2012 (<http://youtu.be/CzSCu2FOj0Q>)
-
-Stanford News Service: Caught on tape: The nightlife of animals at Stanford's Jasper Ridge preserve. May 31, 2012 (<http://news.stanford.edu/news/2012/june/jasper-ridge-cameras-060112.html>)
-
-Stanford Report: Jasper Ridge, Research in the Field at Stanford’s Biological Preserve; Computers and Cognition. October 22, 2008 (also online at: <http://multi.stanford.edu/features/jasper/part5.html>)
 
