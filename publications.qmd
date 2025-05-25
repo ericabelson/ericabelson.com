@@ -8,15 +8,20 @@ This page includes popular writing and scientific publications.
 
 ### Medium Articles
 
-- [Finding Earth Engine Data Doesn’t Have to Be a Struggle: Let AI Agents Do the Heavy Lifting](https://medium.com/@esabelson/finding-earth-engine-data-doesnt-have-to-be-a-struggle-let-ai-agents-do-the-heavy-lifting) - How AI agents streamline the search for datasets in Google Earth Engine.
-- [Building an Agentic Scientific Research Team with Google’s Agent Development Kit](https://medium.com/@esabelson/building-an-agentic-scientific-research-team-with-googles-agent-development-kit) - Discusses assembling a research workflow powered by Google’s agent tools.
+- [Finding Earth Engine Data Doesn’t Have to Be a Struggle: Let AI Agents Do the Heavy Lifting](https://medium.com/google-cloud/finding-earth-engine-data-doesnt-have-to-be-a-struggle-let-ai-agents-do-the-heavy-lifting-5b869626b506) – Co-authored with Kristopher Overholt (Google), this post explains how agentic AI built with the Agent Development Kit (ADK) can simplify the search for datasets in Google Earth Engine by translating research questions into dataset recommendations.
+- [Building an Agentic Scientific Research Team with Google’s Agent Development Kit](https://medium.com/@esabelson/building-an-agentic-scientific-research-team-with-googles-agent-development-kit-4c4b024e29de) – Co-authored with Kristopher Overholt (Google), this post walks through creating a multi-agent research team using ADK to automate scientific literature review and methodology extraction.
 
 ### LinkedIn Posts
 
-- [Preparing National Science Foundation (NSF) proposals](https://www.linkedin.com/posts/ericabelson_preparing-national-science-foundation-nsf-activity-7330969409219346433-A4SB) - Tips on organizing materials for a successful submission.
-- [Post on inclusive practices in science](https://www.linkedin.com/posts/ericabelson_accessibility-inclusion-diversityinscience-activity-7255277886784376835-IkPF) - Thoughts on accessibility and diversity in research settings.
-- [Additional reflections on leadership](https://www.linkedin.com/posts/ericabelson_%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%A0%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%95%F0%9D%97%B6%F0%9D%97%AE%F0%9D%98%80-activity-7263692964030246913-9Q-d) - Short note on team motivation.
-- [Learning through collaboration](https://www.linkedin.com/posts/ericabelson_%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%94%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0-%F0%9D%97%AA%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB-activity-7252785814881845249-b7v8) - Reflects on the value of collaborative problem solving.
+- [Preparing National Science Foundation (NSF) proposals is time-consuming...](https://www.linkedin.com/posts/ericabelson_preparing-national-science-foundation-nsf-activity-7330969409219346433-A4SB) – Introduces *author-affiliations*, a lightweight Python tool that automates the creation of NSF COA documents by pulling structured author and affiliation metadata from Crossref and OpenAlex, based on ORCID export lists.
+- [𝗔𝗜 𝗮𝗻𝗱 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗪𝗿𝗶𝘁𝗶𝗻𝗴: 𝗘𝘁𝗵𝗶𝗰𝗮𝗹 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆](https://www.linkedin.com/posts/ericabelson_%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%94%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B0-%F0%9D%97%AA%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB-activity-7252785814881845249-b7v8) – A reflection on GenAI’s role in academic publishing, proposing the inclusion of AI prompt logs to support ethical transparency, foster trust, and help reduce barriers for non-native English speakers and researchers with disabilities.
+- [𝗔𝗜 𝗮𝗻𝗱 𝗔𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆 𝗶𝗻 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗮: 𝗔 𝗦𝘁𝗲𝗽 𝗧𝗼𝘄𝗮𝗿𝗱 𝗜𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻](https://www.linkedin.com/posts/ericabelson_accessibility-inclusion-diversityinscience-activity-7255277886784376835-IkPF) – A post exploring how GenAI technologies like LLMs and vectorization can reduce barriers for disabled and non-native English-speaking researchers, enhancing accessibility and inclusion across academia.
+- [𝗔𝗜 𝗮𝗻𝗱 𝗠𝗶𝘁𝗶𝗴𝗮𝘁𝗶𝗻𝗴 𝗕𝗶𝗮𝘀 𝗶𝗻 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗮](https://www.linkedin.com/posts/ericabelson_%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%A0%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%95%F0%9D%97%B6%F0%9D%97%AE%F0%9D%98%80-activity-7263692964030246913-9Q-d) – Reflections on how GenAI can both introduce and mitigate bias in academic writing, with a focus on promoting inclusion, accessibility, and diverse representation through the responsible use of AI tools like LLMs.
+
+
+
+- [Preparing National Science Foundation (NSF) proposals]() - Tips on organizing materials for a successful submission.
+
 
 ## Scientific Publications
 
