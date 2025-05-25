@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ericabelson.github.io/ericabelson.com/contact.html</loc>
+    <lastmod>2025-05-25T04:00:33.598Z</lastmod>
+  </url>
+  <url>
     <loc>https://ericabelson.github.io/ericabelson.com/index.html</loc>
-    <lastmod>2025-05-13T14:36:30.618Z</lastmod>
+    <lastmod>2025-05-25T04:00:33.605Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ericabelson.github.io/ericabelson.com/publications.html</loc>
+    <lastmod>2025-05-25T04:00:33.606Z</lastmod>
   </url>
   <url>
     <loc>https://ericabelson.github.io/ericabelson.com/resume.html</loc>
-    <lastmod>2025-05-13T14:36:30.619Z</lastmod>
+    <lastmod>2025-05-25T04:00:33.606Z</lastmod>
   </url>
   <url>
     <loc>https://ericabelson.github.io/ericabelson.com/research.html</loc>
-    <lastmod>2025-05-13T14:36:30.618Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ericabelson.github.io/ericabelson.com/contact.html</loc>
-    <lastmod>2025-05-13T14:36:30.613Z</lastmod>
+    <lastmod>2025-05-25T04:00:33.606Z</lastmod>
   </url>
 </urlset>
