@@ -33,7 +33,7 @@ Program and project management; decisions from data; experimental & study design
 -   Planning, conducting, and directing research (study design to reporting) to provide actionable insights based on novel data
 -   Large-scale and high-complexity data collection & analysis including: data wrangling, cleaning, reshaping, dimension-reduction, analytics, mining, visualization, and archiving
 -   Build research and industry solutions using the R programming language (with experience in Python) 
--   Use of advanced quantitative statistical and machine learning methods and spatial analytical techniques
+-   Use of advanced quantitative statistical and machine learning methods and geospatial analytical techniques
 -   Use of high-performance computing clusters to conduct analyses
 -   Biological applications of computer science and collaborations with computer scientists
 -   Develop project proposals, obtain competitive funding, coordination with personnel and stakeholders, deploying field infrastructure
