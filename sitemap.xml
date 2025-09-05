@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ericabelson.com/index.html</loc>
-    <lastmod>2025-06-16T03:52:18.991Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ericabelson.com/publications.html</loc>
-    <lastmod>2025-06-16T03:52:18.991Z</lastmod>
-  </url>
-  <url>
     <loc>https://ericabelson.com/contact.html</loc>
-    <lastmod>2025-06-16T03:52:18.985Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ericabelson.com/research.html</loc>
-    <lastmod>2025-06-16T03:52:18.991Z</lastmod>
+    <lastmod>2025-09-05T01:50:50.797Z</lastmod>
   </url>
   <url>
     <loc>https://ericabelson.com/resume.html</loc>
-    <lastmod>2025-06-16T03:52:18.991Z</lastmod>
+    <lastmod>2025-09-05T01:50:50.802Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ericabelson.com/publications.html</loc>
+    <lastmod>2025-09-05T01:50:50.802Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ericabelson.com/research.html</loc>
+    <lastmod>2025-09-05T01:50:50.802Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ericabelson.com/index.html</loc>
+    <lastmod>2025-09-05T01:50:50.802Z</lastmod>
   </url>
 </urlset>
