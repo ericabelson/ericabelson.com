@@ -24,17 +24,17 @@ This page includes popular writing and scientific publications.  You can also ch
 ### Publications and Patents
 Russo, N., K. Gahm, M. Zuercher, K. Hernandez, R. Blakey, C. Niesner, **E.S. Abelson**. Monitoring animal movement diversity as a component of biodiversity. Frontiers in Ecology and the Environment. In review & EcoEvoRxiv: https://ecoevorxiv.org/repository/object/8552/download/15998/ (2025)
 
-Contina, A., **E.S. Abelson**, B. Allison, B. Stokes, K.F. Sanchez, H.M. Hernandez, A.M. Kepple, Q. Tran, I. Kazen, K.A. Brown, H.J. Powell, T.H. Keitt. BioSense, An Automated sensing node for organismal and environmental biology. HardwareX. (2024)
+Contina, A., **E.S. Abelson**, B. Allison, B. Stokes, K.F. Sanchez, H.M. Hernandez, A.M. Kepple, Q. Tran, I. Kazen, K.A. Brown, H.J. Powell, T.H. Keitt. BioSense, an automated sensing node for organismal and environmental biology. HardwareX. (2024)
 
-Barrientos, R., W. Vickers, T. Longcore, **E.S. Abelson**, J. Dellinger, D.P. Waetjen, G. Fandos, F.M. Shilling. Nearby night lighting, rather than sky glow, is associated with habitat selection by a top predator in human-dominated landscapes. Philosophical Transations of the Royal Society B. (2023)
+Barrientos, R., W. Vickers, T. Longcore, **E.S. Abelson**, J. Dellinger, D.P. Waetjen, G. Fandos, F.M. Shilling. Nearby night lighting, rather than sky glow, is associated with habitat selection by a top predator in human-dominated landscapes. Philosophical Transactions of the Royal Society B. (2023)
 
 \^**Abelson, E.S.**, B. Seymoure, E.K. Perkin, A. Jechow, H. Moon, C.C.M. Kyba, F. Holker, J. White, T. Longcore. Ecological Aspects and Measurement of artificial light at night. Ecology Letters. In revision. Preprint available on SSRN: <https://dx.doi.org/10.2139/ssrn.4353905>
 
-\*Valler, J., S. Riley, D.T. Blumstein, \^**E.S. Abelson**. Impact of extreme heat events on puma movement near the urban-wildland interface. Western wildlife. In prep.
+\*Valler, J., S. Riley, D.T. Blumstein, \^**E.S. Abelson**. Impact of extreme heat events on puma movement near the urban-wildland interface. Western Wildlife. In prep.
 
 \^**Abelson, E.S.** White-flash film camera traps affect behavior and bias data collected for deer, Odocoileus hemionus. Western Wildlife. In submission
 
-\*Nojoumi, M., A.P. Clevenger, D.T. Blumstein, \^**E.S. Abelson**. Vehicular Traffic Effects on Elk and White-tailed Deer at Wildlife Crossings in Banff National Park. Plos ONE. 17(11): e0269587. (<https://doi.org/10.1371/journal.pone.0269587>) (2022)
+\*Nojoumi, M., A.P. Clevenger, D.T. Blumstein, \^**E.S. Abelson**. Vehicular Traffic Effects on Elk and White-tailed Deer at Wildlife Crossings in Banff National Park. PLOS ONE. 17(11): e0269587. (<https://doi.org/10.1371/journal.pone.0269587>) (2022)
 
 \^**Abelson, E.S.**, K.M. Reynolds, A.M. White, J.W. Long, C. Maxwell, P.N. Manley. Evaluating pathways to social and ecological landscape resilience. Ecology and Society. 27(4):8. (<https://doi.org/10.5751/ES-13243-270408>) (2022)
 
