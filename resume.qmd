@@ -77,7 +77,7 @@ A complete list of my writing and publications can be found on the [Publications
 
 -   Graduate student committee member: Academic barriers for disabled students in STEM
 -   Graduate student committee member: Wildlife movement
--   Mentorship: Mentored 42 Stanford, U.C. Berkeley and U.C. Los Angeles, San Francisco, University, U.C. Davis, and U.T. Austin undergraduates, masters, and Ph.D. students; two high school students; and seven local volunteer/recent university graduates in research design, field work, database management and analysis. 2006-Present
+-   Mentorship: Mentored 42 undergraduate and graduate students from Stanford, UC Berkeley, UCLA, the University of San Francisco, UC Davis, and UT Austin; two high school students; and seven local volunteer/recent university graduates in research design, field work, database management, and analysis. 2006-Present
 -   Ph.D. student Mentor: Stanford Biosciences Student Association Mentorship program provides mentoring for 1st year Ph.D. students. Stanford University, CA. October 2011-2013
 -   ESA SEEDS Mentor: Ecological Society of America program entitled, Strategies for Ecology Education, Diversity and Sustainability, is a mentorship program that pairs ecologists with under-represented students. Portland, OR. 2012 ESA Annual Meeting
 
@@ -87,11 +87,11 @@ A complete list of my writing and publications can be found on the [Publications
 
 Agentic AI; Using Google Agentic Development Kit to discover Google Earth Engine data. AI Camp Virtual Event. May 2025. Co-presented with Kristopher Overholt (Google Developer Advocate)
 
-Wildlife Corridor Webinar, Environment California. Wildlife Corridors and Connectivity.September 2021.Los Angeles, CA.
+Wildlife Corridor Webinar, Environment California. Wildlife Corridors and Connectivity. September 2021. Los Angeles, CA.
 
-La Kretz Center for California Conservation Science 2021 Public Lecture. May 2021.Los Angeles, CA.
+La Kretz Center for California Conservation Science 2021 Public Lecture. May 2021. Los Angeles, CA.
 
-Abelson, E.S. Lake Tahoe West - synthesis of biophysical, ecological, economic, and social data.Lake Tahoe West symposium.May 2020.Lake Tahoe, CA.
+Abelson, E.S. Lake Tahoe West - synthesis of biophysical, ecological, economic, and social data. Lake Tahoe West symposium. May 2020. Lake Tahoe, CA.
 
 Wildlife movement ecology, applications for conservation planning. The Nature Conservancy – Connected Lands Strategy Team (Land Networks Program). December 2018, San Diego, CA.
 
