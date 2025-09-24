@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8acab15289e98a72502ea5e6803ff6c1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ccbdc746eef3eda010ea6499a9d62be1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,6 +80,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Eric Abelson</span>
     </a>
@@ -310,7 +313,7 @@ GitHub: https://github.com/ericabelson/agentic‑research‑assistant</p>
 <ul>
 <li>Graduate student committee member: Academic barriers for disabled students in STEM</li>
 <li>Graduate student committee member: Wildlife movement</li>
-<li>Mentorship: Mentored 42 Stanford, U.C. Berkeley and U.C. Los Angeles, San Francisco, University, U.C. Davis, and U.T. Austin undergraduates, masters, and Ph.D.&nbsp;students; two high school students; and seven local volunteer/recent university graduates in research design, field work, database management and analysis. 2006-Present</li>
+<li>Mentorship: Mentored 42 undergraduate and graduate students from Stanford, UC Berkeley, UCLA, the University of San Francisco, UC Davis, and UT Austin; two high school students; and seven local volunteer/recent university graduates in research design, field work, database management, and analysis. 2006-Present</li>
 <li>Ph.D.&nbsp;student Mentor: Stanford Biosciences Student Association Mentorship program provides mentoring for 1st year Ph.D.&nbsp;students. Stanford University, CA. October 2011-2013</li>
 <li>ESA SEEDS Mentor: Ecological Society of America program entitled, Strategies for Ecology Education, Diversity and Sustainability, is a mentorship program that pairs ecologists with under-represented students. Portland, OR. 2012 ESA Annual Meeting</li>
 </ul>
@@ -320,9 +323,9 @@ GitHub: https://github.com/ericabelson/agentic‑research‑assistant</p>
 <section id="invited-seminars" class="level3">
 <h3 class="anchored" data-anchor-id="invited-seminars">Invited Seminars</h3>
 <p>Agentic AI; Using Google Agentic Development Kit to discover Google Earth Engine data. AI Camp Virtual Event. May 2025. Co-presented with Kristopher Overholt (Google Developer Advocate)</p>
-<p>Wildlife Corridor Webinar, Environment California. Wildlife Corridors and Connectivity.September 2021.Los Angeles, CA.</p>
-<p>La Kretz Center for California Conservation Science 2021 Public Lecture. May 2021.Los Angeles, CA.</p>
-<p>Abelson, E.S. Lake Tahoe West - synthesis of biophysical, ecological, economic, and social data.Lake Tahoe West symposium.May 2020.Lake Tahoe, CA.</p>
+<p>Wildlife Corridor Webinar, Environment California. Wildlife Corridors and Connectivity. September 2021. Los Angeles, CA.</p>
+<p>La Kretz Center for California Conservation Science 2021 Public Lecture. May 2021. Los Angeles, CA.</p>
+<p>Abelson, E.S. Lake Tahoe West - synthesis of biophysical, ecological, economic, and social data. Lake Tahoe West symposium. May 2020. Lake Tahoe, CA.</p>
 <p>Wildlife movement ecology, applications for conservation planning. The Nature Conservancy – Connected Lands Strategy Team (Land Networks Program). December 2018, San Diego, CA.</p>
 <p>Modeling wildlife movement for conservation planning. USFS Pacific Southwest Research Station, Conservation Biology. March 12, 2018, Davis, CA.</p>
 <p>Modeling wildlife movement for conservation planning. California Department of Transportation – Environmental Planning Division. November 21, 2017, Marysville, CA.</p>
@@ -533,13 +536,14 @@ GitHub: https://github.com/ericabelson/agentic‑research‑assistant</p>
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
