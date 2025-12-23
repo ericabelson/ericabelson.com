@@ -1,0 +1,15 @@
+---
+title: "Redirecting to Google Scholar..."
+format:
+  html:
+    toc: false
+    include-in-header:
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=eric+abelson&btnG=">
+---
+
+Redirecting to [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=eric+abelson&btnG=)...
+
+<script>
+  window.location.href = "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=eric+abelson&btnG=";
+</script>
