@@ -11,14 +11,14 @@ format:
 ## Education
 
 +:----------+:---------------------------------------------------------------------------+---------:+
-| **Ph.D.** | **Stanford University\                                                     | 2013     |
+| **Ph.D.** | **Stanford University\                                                     |          |
 |           | **Department of Biological Sciences, Palo Alto, CA                         |          |
 +-----------+----------------------------------------------------------------------------+----------+
-| **M.S.**  | **Stanford University**\                                                   | 2008     |
+| **M.S.**  | **Stanford University**\                                                   |          |
 |           | Department of Biological Sciences, Palo Alto, CA\                          |          |
 |           | GPA: 4.0/4.0                                                               |          |
 +-----------+----------------------------------------------------------------------------+----------+
-| **B.S.**  | **University of California, Berkeley\                                      | 2005     |
+| **B.S.**  | **University of California, Berkeley\                                      |          |
 |           | **Department of Environmental Science Policy and Management, Berkeley, CA\ |          |
 |           | Minor in Forestry and Natural Resources\                                   |          |
 |           | GPA: 3.9/4.0                                                               |          |
@@ -54,9 +54,9 @@ Program and project management; decisions from data; experimental & study design
 | **University of California, Davis (John Muir Institute of the Environment)** | Visiting Scholar | 2015–2018 |
 | **U.C. Los Angeles** | Visiting Scholar | 2015–2018 |
 | **Jasper Ridge Biological Preserve, Stanford University** | Instructor/Researcher | 2013–2018 |
-| **JDR Environmental, Martinez, CA** | Research Biologist | 2013–2014 |
-| **San Francisco Public Utility Commission, San Francisco, CA** | Biological Research Graduate Intern | 2013 |
-| **Segue Music, West Hollywood, CA** | Computer Consultant; Audio Engineer | 1998–2001 |
+| **JDR Environmental, Martinez, CA** | Research Biologist | |
+| **San Francisco Public Utility Commission, San Francisco, CA** | Biological Research Graduate Intern | |
+| **Segue Music, West Hollywood, CA** | Computer Consultant; Audio Engineer | |
 
 
 ## AI Open-Source Code, and Outreach
