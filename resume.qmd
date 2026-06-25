@@ -59,6 +59,12 @@ Program and project management; decisions from data; experimental & study design
 | **Segue Music, West Hollywood, CA** | Computer Consultant; Audio Engineer | |
 
 
+## Policy & Government Engagement
+
+-   Stanford Woods Institute Rising Environmental Leaders Fellow (competitive, cross-institutional selection); D.C. Policy Leadership Fellow engaging directly with federal officials, White House science analysts, and congressional staff on science-policy translation and environmental legislation. 2012.
+-   As Chief Science Officer at Method Qualitative, directing GenAI and NLP strategy: agentic pipelines, multi-step reasoning, and reflexive prompting for qualitative research at scale.
+-   Led multi-agency science-to-policy translation for the Lake Tahoe West Restoration Partnership, integrating 100-year forest, wildlife, fire, and economic projections with federal, state, tribal, and local stakeholders to produce a formally adopted Landscape Restoration Strategy governing 59,000 acres of federal land.
+
 ## AI Open-Source Code, and Outreach
 
 Abelson, E.S. & Overholt, K. (2025, May 8). *Finding Earth Engine Data Doesn’t Have to Be a Struggle: Let AI Agents Do the Heavy Lifting.* Medium – Google Cloud Community.\
@@ -248,6 +254,7 @@ Stanford Report: Jasper Ridge, Research in the Field at Stanford’s Biological 
 -   UCLA La Kretz Center for California Conservation Science, Post-doctoral Fellowship. 2014-2015
 -   Southern California Research Learning Center’s Grant Program, 2014-2016
 -   National Science Foundation Dissertation Improvement Grant, 2011-2013
+-   Stanford Woods Institute Rising Environmental Leaders D.C. Policy Fellowship (competitive, cross-institutional selection). 2012.
 -   Woods Institute for the Environment, Stanford University, Rising Environmental Leader 2012
 -   Stanford Ecology & Evolutionary Biology Travel Grant, 2012
 -   #SciFund Challenge, 2011
