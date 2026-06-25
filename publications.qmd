@@ -31,9 +31,9 @@ This page includes popular writing and scientific publications.  You can also ch
 
 \*Valler, J., S. Riley, D.T. Blumstein, \^**E.S. Abelson**. Impact of extreme heat events on puma movement near the urban-wildland interface. Western Wildlife. In prep.
 
-\^**Abelson, E.S.** White-flash film camera traps affect behavior and bias data collected for deer, Odocoileus hemionus. Western Wildlife. In submission
+\^**Abelson, E.S.** White-flash film camera traps affect behavior and bias data collected for deer, Odocoileus hemionus. Western Wildlife. In prep.
 
-Russo, N., K. Gahm, M. Zuercher, K. Hernandez, R. Blakey, C. Niesner, **E.S. Abelson**. Monitoring animal movement diversity as a component of biodiversity. Frontiers in Ecology and the Environment. In review & EcoEvoRxiv: https://ecoevorxiv.org/repository/object/8552/download/15998/ (2025)
+Russo, N., K. Gahm, M. Zuercher, K. Hernandez, R. Blakey, C. Niesner, **E.S. Abelson**. Monitoring animal movement diversity as a component of biodiversity. Frontiers in Ecology and the Environment. (2025)
 
 Contina, A., **E.S. Abelson**, B. Allison, B. Stokes, K.F. Sanchez, H.M. Hernandez, A.M. Kepple, Q. Tran, I. Kazen, K.A. Brown, H.J. Powell, T.H. Keitt. BioSense, an automated sensing node for organismal and environmental biology. HardwareX. (2024)
 
