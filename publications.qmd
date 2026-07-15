@@ -27,50 +27,50 @@ This page includes popular writing and scientific publications.  You can also ch
 ## Scientific Publications
 
 ### Publications and Patents
-\^**Abelson, E.S.**, B. Seymoure, E.K. Perkin, A. Jechow, H. Moon, C.C.M. Kyba, F. Holker, J. White, T. Longcore. Ecological Aspects and Measurement of artificial light at night. Ecology Letters. In revision. Preprint available on SSRN: <https://dx.doi.org/10.2139/ssrn.4353905>
+\^**Abelson, E.S.**, B. Seymoure, E.K. Perkin, A. Jechow, H. Moon, C.C.M. Kyba, F. Holker, J. White, T. Longcore. Ecological Aspects and Measurement of artificial light at night. Ecology Letters. In revision. Preprint available on SSRN: <https://dx.doi.org/10.2139/ssrn.4353905> [PDF](/pdfs/ecol%20aspects%20of%20anth%20light%20night%20SSRN-id4353905.pdf)
 
 \*Valler, J., S. Riley, D.T. Blumstein, \^**E.S. Abelson**. Impact of extreme heat events on puma movement near the urban-wildland interface. Western Wildlife. In prep.
 
 \^**Abelson, E.S.** White-flash film camera traps affect behavior and bias data collected for deer, Odocoileus hemionus. Western Wildlife. In prep.
 
-Russo, N., K. Gahm, M. Zuercher, K. Hernandez, R. Blakey, C. Niesner, **E.S. Abelson**. Monitoring animal movement diversity as a component of biodiversity. Frontiers in Ecology and the Environment. (2025)
+Russo, N., K. Gahm, M. Zuercher, K. Hernandez, R. Blakey, C. Niesner, **E.S. Abelson**. Monitoring animal movement diversity as a component of biodiversity. Frontiers in Ecology and the Environment. (2025) [PDF](/pdfs/Frontiers%20in%20Ecol%20%20%20Environ%20-%202026%20-%20Russo%20-%20Monitoring%20animal%20movement%20diversity%20as%20a%20component%20of%20biodiversity.pdf)
 
-Contina, A., **E.S. Abelson**, B. Allison, B. Stokes, K.F. Sanchez, H.M. Hernandez, A.M. Kepple, Q. Tran, I. Kazen, K.A. Brown, H.J. Powell, T.H. Keitt. BioSense, an automated sensing node for organismal and environmental biology. HardwareX. (2024)
+Contina, A., **E.S. Abelson**, B. Allison, B. Stokes, K.F. Sanchez, H.M. Hernandez, A.M. Kepple, Q. Tran, I. Kazen, K.A. Brown, H.J. Powell, T.H. Keitt. BioSense, an automated sensing node for organismal and environmental biology. HardwareX. (2024) [PDF](/pdfs/contina%20biosense%20PIIS2468067224000786.pdf)
 
-Barrientos, R., W. Vickers, T. Longcore, **E.S. Abelson**, J. Dellinger, D.P. Waetjen, G. Fandos, F.M. Shilling. Nearby night lighting, rather than sky glow, is associated with habitat selection by a top predator in human-dominated landscapes. Philosophical Transactions of the Royal Society B. (2023)
+Barrientos, R., W. Vickers, T. Longcore, **E.S. Abelson**, J. Dellinger, D.P. Waetjen, G. Fandos, F.M. Shilling. Nearby night lighting, rather than sky glow, is associated with habitat selection by a top predator in human-dominated landscapes. Philosophical Transactions of the Royal Society B. (2023) [PDF](/pdfs/barrientos%20rstb.2022.0370.pdf)
 
-\*Nojoumi, M., A.P. Clevenger, D.T. Blumstein, \^**E.S. Abelson**. Vehicular Traffic Effects on Elk and White-tailed Deer at Wildlife Crossings in Banff National Park. PLOS ONE. 17(11): e0269587. (<https://doi.org/10.1371/journal.pone.0269587>) (2022)
+\*Nojoumi, M., A.P. Clevenger, D.T. Blumstein, \^**E.S. Abelson**. Vehicular Traffic Effects on Elk and White-tailed Deer at Wildlife Crossings in Banff National Park. PLOS ONE. 17(11): e0269587. (<https://doi.org/10.1371/journal.pone.0269587>) (2022) [PDF](/pdfs/nojoumi-2022-banff-traffic.pdf)
 
-\^**Abelson, E.S.**, K.M. Reynolds, A.M. White, J.W. Long, C. Maxwell, P.N. Manley. Evaluating pathways to social and ecological landscape resilience. Ecology and Society. 27(4):8. (<https://doi.org/10.5751/ES-13243-270408>) (2022)
+\^**Abelson, E.S.**, K.M. Reynolds, A.M. White, J.W. Long, C. Maxwell, P.N. Manley. Evaluating pathways to social and ecological landscape resilience. Ecology and Society. 27(4):8. (<https://doi.org/10.5751/ES-13243-270408>) (2022) [PDF](/pdfs/EVAL%20PATHWAYS%20LANDSCAPE%20RESILIENCE%20psw_2022_white006_abelson.pdf)
 
-White, A.M., T.G. Holland, **E.S. Abelson**, A. Kretchun, C.J. Maxwell, R.M. Scheller. Simulating wildlife habitat dynamics to inform best management strategies under a changing climate in the Lake Tahoe basin, California. Ecology and Society. 27. (doi:10.5751/ES-13301-270231) (2022)
+White, A.M., T.G. Holland, **E.S. Abelson**, A. Kretchun, C.J. Maxwell, R.M. Scheller. Simulating wildlife habitat dynamics to inform best management strategies under a changing climate in the Lake Tahoe basin, California. Ecology and Society. 27. (doi:10.5751/ES-13301-270231) (2022) [PDF](/pdfs/simulating%20wildlife%20habitat%20dynamics%20LTB%20psw_2022_white004.pdf)
 
-\^**Abelson, E.S.**, J. Sikich, S. Riley, D.T. Blumstein. Influence of anthropogenic light on puma road crossing movement. bioRxiv: doi: <https://doi.org/10.1101/2022.10.28.514303> (2022)
+\^**Abelson, E.S.**, J. Sikich, S. Riley, D.T. Blumstein. Influence of anthropogenic light on puma road crossing movement. bioRxiv: doi: <https://doi.org/10.1101/2022.10.28.514303> (2022) [PDF](/pdfs/influence%20of%20anthro%20light%20on%20puma%20road%20crossing%202022.10.28.514303.full.pdf)
 
-Keitt T., **E.S. Abelson**. Ecology in the age of automation. Science 373:6557, 858-859 (2021)
+Keitt T., **E.S. Abelson**. Ecology in the age of automation. Science 373:6557, 858-859 (2021) [PDF](/pdfs/kiett%20abelson%20ecology%20in%20the%20age%20of%20automation.pdf)
 
-Niesner, C.A., R.V. Blakey, D.T. Blumstein, \^**E.S. Abelson**. Wildlife affordances of urban infrastructure: a framework to understand human-wildlife space use. Frontiers in Conservation Science. 2:774137 (2021)
+Niesner, C.A., R.V. Blakey, D.T. Blumstein, \^**E.S. Abelson**. Wildlife affordances of urban infrastructure: a framework to understand human-wildlife space use. Frontiers in Conservation Science. 2:774137 (2021) [PDF](/pdfs/niesner-2021-wildlife-affordances.pdf)
 
-\^**Abelson, E.S.**, K.M. Reynolds, P. N. Manley, S. Paplanus. Strategic decision support for long-term conservation management planning. Forest Ecology and Management. 497 (2021)
+\^**Abelson, E.S.**, K.M. Reynolds, P. N. Manley, S. Paplanus. Strategic decision support for long-term conservation management planning. Forest Ecology and Management. 497 (2021) [PDF](/pdfs/strategic%20decision%20support%20for%20long%20term%20cons%20mgt%20planning%20Abelson%20et%20al%202021%20FEM.pdf)
 
-Miller, A.B., D. King, M. Rowland, J. Chapman, M. Tomosy, C. Liang, **E.S. Abelson**, R. Truex. Sustaining wildlife with recreation on public lands: a synthesis of research findings, management practices, and research needs. Gen. Tech. Rep. PNW-GTR-993. Portland, OR: US Department of Agriculture, Forest Service, Pacific Northwest Research Station. 226 p. 993 (2020).
+Miller, A.B., D. King, M. Rowland, J. Chapman, M. Tomosy, C. Liang, **E.S. Abelson**, R. Truex. Sustaining wildlife with recreation on public lands: a synthesis of research findings, management practices, and research needs. Gen. Tech. Rep. PNW-GTR-993. Portland, OR: US Department of Agriculture, Forest Service, Pacific Northwest Research Station. 226 p. 993 (2020). [PDF](/pdfs/usda%20sustaining%20wildlf%20with%20recreation%20on%20public%20lands%20MILLER%20pnw_gtr993.pdf)
 
-\^**Abelson, E.S.** Big brains reduce extinction risk in Carnivora. Oecologia (2019)
+\^**Abelson, E.S.** Big brains reduce extinction risk in Carnivora. Oecologia (2019) [PDF](/pdfs/big%20brains%20reduce%20extinciton%20risk%20CARNIVORANS%20psw_2019_abelson001.pdf)
 
-\*Neco, L.C., **E.S. Abelson**, B. Natterson-Horowitz, D.T. Blumstein. The evolution of self-medication behaviour in mammals. Biol J Linn Soc 128, 373-378 (2019)
+\*Neco, L.C., **E.S. Abelson**, B. Natterson-Horowitz, D.T. Blumstein. The evolution of self-medication behaviour in mammals. Biol J Linn Soc 128, 373-378 (2019) [PDF](/pdfs/evolution%20of%20SELF%20MEDICATION%20psw_2019_abelson002_neco.pdf)
 
-Boyston, E.E., **E.S. Abelson**, \*A. Kazanjian, D.T. Blumstein. Canid vs. canid: insights into coyote-dog encounters from social media. Human Wildlife Interactions. (2018) 12(2), 9
+Boyston, E.E., **E.S. Abelson**, \*A. Kazanjian, D.T. Blumstein. Canid vs. canid: insights into coyote-dog encounters from social media. Human Wildlife Interactions. (2018) 12(2), 9 [PDF](/pdfs/Canid%20vs.%20Canid_%20Insights%20into%20Coyote-Dog%20Encounters%20from%20Social.pdf)
 
-\^**Abelson, E.S.** Brain size is correlated with endangerment status in mammals. Proc. R. Soc. B. Vol. 283. No. 1825. The Royal Society, 2016.
+\^**Abelson, E.S.** Brain size is correlated with endangerment status in mammals. Proc. R. Soc. B. Vol. 283. No. 1825. The Royal Society, 2016. [PDF](/pdfs/brain%20size%20endangerment%20status%20rspb.2015.2772.pdf)
 
-Garcia-Molina, H., \*S. Kandel, A. Paepcke, M. Theobald, and **E.S. Abelson**. ‘Spreadsheet system and method for managing photos,’ Patent publication number: US 2010/0058163 A1 U.S. Classification: 715/220
+Garcia-Molina, H., \*S. Kandel, A. Paepcke, M. Theobald, and **E.S. Abelson**. ‘Spreadsheet system and method for managing photos,’ Patent publication number: US 2010/0058163 A1 U.S. Classification: 715/220 [PDF](/pdfs/us%20patent%20US8166385.pdf)
 
-Sundaresan, S., C. Riginos, **E.S. Abelson**. Storage and analysis of camera trap data: alternative approaches (Response to Harris et al. 2010). The Bulletin of the Ecological Society of America 92.2 (2011): 188-195.
+Sundaresan, S., C. Riginos, **E.S. Abelson**. Storage and analysis of camera trap data: alternative approaches (Response to Harris et al. 2010). The Bulletin of the Ecological Society of America 92.2 (2011): 188-195. [PDF](/pdfs/mgmt%20and%20analysis%20of%20camera%20trap%20data%20Emerging%20Technologies%20Abelson%20.docx)
 
-Kandel, S., **E.S. Abelson**, H. Garcia-Molina, A. Paepcke & M. Theobald. 2008. PhotoSpread: a spreadsheet for managing photos. Computer/Human Interactions, 2008 Proceedings 1749-1758. Available online at: <http://dbpubs.stanford.edu:8090/pub/2007-28>
+Kandel, S., **E.S. Abelson**, H. Garcia-Molina, A. Paepcke & M. Theobald. 2008. PhotoSpread: a spreadsheet for managing photos. Computer/Human Interactions, 2008 Proceedings 1749-1758. Available online at: <http://dbpubs.stanford.edu:8090/pub/2007-28> [PDF](/pdfs/stanford%20chi%202008.pdf)
 
 
 ## Scientific Report 
 
-Jonathan W. Long, Patricia N. Manley, Angela M. White, Keith M. Slauson, Stacy A. Drury, **Eric S. Abelson**, Brandon M. Collins, Keith Reynolds, William Elliot and I. Sue Miller, Rob Scheller, Charles Maxwell, Mariana Dobre, Erin Brooks, Sam Evans, Tim Holland, Matthew Potts, Adrian Harpold, Sebastian Krogh Navarro, John Mejia, Chad Hoffman, Justin Ziegler. Lake Tahoe West Science Summary of Findings Report. Supporting long-term forest resilience in the Lake Tahoe basin. Lake Tahoe West Restoration Partnership. (November 3, 2020)
+Jonathan W. Long, Patricia N. Manley, Angela M. White, Keith M. Slauson, Stacy A. Drury, **Eric S. Abelson**, Brandon M. Collins, Keith Reynolds, William Elliot and I. Sue Miller, Rob Scheller, Charles Maxwell, Mariana Dobre, Erin Brooks, Sam Evans, Tim Holland, Matthew Potts, Adrian Harpold, Sebastian Krogh Navarro, John Mejia, Chad Hoffman, Justin Ziegler. Lake Tahoe West Science Summary of Findings Report. Supporting long-term forest resilience in the Lake Tahoe basin. Lake Tahoe West Restoration Partnership. (November 3, 2020) [PDF](/pdfs/ltw-science-summary-final-report-03nov20.pdf)
 
