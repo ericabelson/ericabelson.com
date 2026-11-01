@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ericabelson.com/index.html</loc>
-    <lastmod>2026-11-01T20:12:37.723Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ericabelson.com/research.html</loc>
-    <lastmod>2026-11-01T20:12:37.854Z</lastmod>
-  </url>
-  <url>
     <loc>https://ericabelson.com/contact.html</loc>
-    <lastmod>2026-11-01T20:12:37.719Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ericabelson.com/pubs.html</loc>
-    <lastmod>2026-11-01T20:12:37.854Z</lastmod>
+    <lastmod>2026-11-01T20:14:52.115Z</lastmod>
   </url>
   <url>
     <loc>https://ericabelson.com/resume.html</loc>
-    <lastmod>2026-11-01T20:12:37.854Z</lastmod>
+    <lastmod>2026-11-01T20:14:52.265Z</lastmod>
   </url>
   <url>
     <loc>https://ericabelson.com/publications.html</loc>
-    <lastmod>2026-11-01T20:12:37.853Z</lastmod>
+    <lastmod>2026-11-01T20:14:52.265Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ericabelson.com/index.html</loc>
+    <lastmod>2026-11-01T20:14:52.119Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ericabelson.com/research.html</loc>
+    <lastmod>2026-11-01T20:14:52.265Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ericabelson.com/pubs.html</loc>
+    <lastmod>2026-11-01T20:14:52.265Z</lastmod>
   </url>
 </urlset>
