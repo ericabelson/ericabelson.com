@@ -162,6 +162,28 @@ a{ color:var(--form); }
 .att .meta{ font-size:.85rem; color:var(--muted); }
 .ok-note{ color:var(--ok); font-weight:700; }
 textarea.dump{ width:100%; height:45vh; font:13px/1.4 ui-monospace, Menlo, Consolas, monospace; border:1px solid var(--line); border-radius:8px; padding:8px; background:var(--page); color:var(--ink); }
+/* printable report */
+.rp-list{ columns:3 10em; column-gap:18px; font-size:.88rem; font-variant-numeric:tabular-nums; margin:8px 0 14px; }
+.rp-list div{ break-inside:avoid; padding:1px 0; }
+.rp-q{ break-inside:avoid; border-top:1px solid var(--line); padding-top:8px; margin-top:12px; }
+.rp-h{ display:flex; gap:10px; align-items:baseline; flex-wrap:wrap; }
+.rp-sec h2{ break-after:avoid; }
+@media print{
+  :root, :root:not([data-theme="light"]), :root[data-theme="dark"]{
+    --bg:#FFFFFF; --page:#FFFFFF; --ink:#000000; --muted:#444444; --form:#2B6A4B; --form-ink:#FFFFFF;
+    --tint:#EEF4F0; --line:#BBBBBB; --mark:#000000; --mark-ink:#FFFFFF; --alert:#A23F29; --ok:#2B6A4B; --tile:#FFFFFF;
+    color-scheme:light;
+  }
+  #bar, #layer, .noprint, .nav{ display:none !important; }
+  body{ background:#FFFFFF; font-size:11pt; }
+  body::before{ display:none; }
+  main{ max-width:none; padding:0; }
+  .card{ padding:8px 10px; margin:6px 0; }
+  .opt{ min-height:0; padding:4px 8px; font-size:10.5pt; }
+  .bub{ width:24px; height:24px; }
+  .figopts{ grid-template-columns:repeat(5,minmax(0,1fr)); }
+  .exp, .opt.right, .opt.wrong, .opt.sel .bub::before, tr.bat td{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+}
 </style>
 </head>
 <body>
@@ -460,6 +482,7 @@ function resultsScreen(){
   <div class="stack">
     <button class="btn block" data-act="download">Download results file</button>
     <button class="btn ghost block" data-act="copy">Copy results text</button>
+    <button class="btn ghost block" data-act="report">Printable summary and review</button>
     <p id="copied" class="small ok-note" role="status"></p>
   </div>
   <div class="notes small"><p>The real CogAT reports age percentiles, and LASA re-norms scores against its own applicants, so this raw score can’t predict a real result. Use it to see which question types need more practice.</p></div>
@@ -477,6 +500,43 @@ function reviewScreen(){
     return head + `<div class="card"><p class="prompt">${esc(sec.prompt)}</p>${stim(it)}</div>${optsHtml(it,i,blank?null:a[i],true)}<div class="exp"><b>Answer ${letter(i,it.ans)}.</b> ${esc(it.exp)}</div>`;
   }).join('') + `<div class="nav"><button class="btn ghost block" data-act="results">Back to scores</button></div>`;
 }
+function reportScreen(){
+  const att = attempt(view.attempt);
+  if(!att){ view.name='home'; return homeScreen(); }
+  $bar.innerHTML = barHtml('Printable report', esc(when(att.start)), `<button class="iconbtn" data-act="results">Scores</button>`);
+  const secs = secsOf(att);
+  const tot = secs.reduce((a,s)=>a+scoreOf(att,s),0), max = secs.reduce((a,s)=>a+s.items.length,0);
+  let rows = '';
+  ['Verbal','Quantitative','Nonverbal'].forEach(b=>{
+    const bs = secs.filter(s=>s.battery===b); if(!bs.length) return;
+    const bt = bs.reduce((a,s)=>a+scoreOf(att,s),0), bm = bs.reduce((a,s)=>a+s.items.length,0);
+    rows += `<tr class="bat"><td>${b} battery</td><td class="r">${bt} / ${bm}</td><td></td><td></td></tr>`;
+    bs.forEach(s=>{ const a = att.answers[s.id]||[]; const n = a.filter(x=>x!==null&&x!==undefined).length;
+      rows += `<tr><td>${esc(s.name)}</td><td class="r">${scoreOf(att,s)} / ${s.items.length}</td><td class="r">${n}</td><td class="r">${fmt(att.used[s.id]||0)}</td></tr>`; });
+  });
+  const detail = secs.map(sec=>{
+    const a = att.answers[sec.id]||[], tm = att.qtime[sec.id]||[], fl = att.flags[sec.id]||[];
+    const list = sec.items.map((it,i)=>{
+      const blank = a[i]===null||a[i]===undefined, ok = a[i]===it.ans;
+      return `<div><span class="mk ${ok?'y':'n'}">${ok?'✓':'✗'}</span>${i+1}. ${blank?'blank':letter(i,a[i])}${ok?'':' → '+letter(i,it.ans)}, ${Math.round(tm[i]||0)} s${fl.includes(i)?', marked':''}</div>`;
+    }).join('');
+    const missed = sec.items.map((it,i)=>({it,i})).filter(({it,i})=>a[i]!==it.ans);
+    const full = missed.map(({it,i})=>{
+      const blank = a[i]===null||a[i]===undefined;
+      return `<div class="rp-q"><div class="rp-h"><span class="mk n">✗</span><b>Question ${i+1}</b><span class="small muted">${blank?'No answer':'Chose '+letter(i,a[i])}, correct: ${letter(i,it.ans)}, ${Math.round(tm[i]||0)} seconds</span></div><div class="card"><p class="prompt">${esc(sec.prompt)}</p>${stim(it)}</div>${optsHtml(it,i,blank?null:a[i],true)}<div class="exp"><b>Answer ${letter(i,it.ans)}.</b> ${esc(it.exp)}</div></div>`;
+    }).join('');
+    return `<section class="rp-sec"><h2>${esc(sec.name)}: ${scoreOf(att,sec)} of ${sec.items.length} correct</h2><div class="rp-list">${list}</div>${missed.length?`<h3>Questions missed, with explanations</h3>${full}`:'<p>Every question in this section was answered correctly.</p>'}</section>`;
+  }).join('');
+  return `<h1 style="font-size:1.8rem;margin-top:14px">CogAT practice: summary and review</h1>
+  <p class="muted">${att.type==='full'?'Full test':'Single section'}, ${att.timed?'timed':'untimed'}. Started ${esc(when(att.start))}, finished ${esc(when(att.end))}. Item set ${esc(att.itemset||'')}.</p>
+  <p class="noprint stack" style="margin:14px 0"><button class="btn block" data-act="print">Print</button></p>
+  <div class="score">${tot}<small> / ${max}</small></div>
+  <p>${Math.round(100*tot/max)}% correct.</p>
+  <table><tr><th>Section</th><th class="r">Score</th><th class="r">Answered</th><th class="r">Time</th></tr>${rows}</table>
+  <p class="small muted">In the lists below, ✓ is right and ✗ is wrong or blank; "B → D" means B was chosen and D is correct.</p>
+  ${detail}
+  <div class="nav"><button class="btn ghost block" data-act="results">Back to scores</button></div>`;
+}
 function render(){
   closeLayer();
   if(!S.unlocked){ stopTick(); $app.innerHTML = gateScreen(); setTimeout(()=>{ const p = document.getElementById('pin'); if(p) p.focus(); }, 0); return; }
@@ -487,6 +547,7 @@ function render(){
     if(sc==='q') startTick(); else stopTick();
   } else if(view.name === 'results'){ stopTick(); $app.innerHTML = resultsScreen(); }
   else if(view.name === 'review'){ stopTick(); $app.innerHTML = reviewScreen(); }
+  else if(view.name === 'report'){ stopTick(); $app.innerHTML = reportScreen(); }
   else { stopTick(); view.name='home'; $app.innerHTML = homeScreen(); }
 }
 function openMap(){
@@ -536,6 +597,8 @@ document.addEventListener('click', e=>{
     case 'open': view.open = view.open===+t.dataset.q ? null : +t.dataset.q; render(); break;
     case 'download': download(attempt(view.attempt)); break;
     case 'copy': copyText(attempt(view.attempt)); break;
+    case 'report': view.name='report'; render(); window.scrollTo(0,0); break;
+    case 'print': window.print(); break;
   }
 });
 document.addEventListener('keydown', e=>{
