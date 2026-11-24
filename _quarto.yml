@@ -4,6 +4,7 @@ project:
     - pdfs/
     - cabinets/
     - cabinet/
+    - cogat/
 
 website:
   title: "Eric Abelson"
