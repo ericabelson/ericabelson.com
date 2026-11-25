@@ -5,6 +5,8 @@ project:
     - cabinets/
     - cabinet/
     - cogat/
+    - cogat2/
+    - cogat3/
 
 website:
   title: "Eric Abelson"
